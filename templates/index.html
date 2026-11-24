@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% from "macros.html" import property_card %}
+{% block title %}HomeValue | Find a home worth coming home to{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="hero-backdrop"></div>
+  <div class="shell hero-content">
+    <div class="eyebrow eyebrow-light"><span class="eyebrow-dot"></span> A smarter way to find home</div>
+    <h1>Find your dream home with <em>intelligent</em> price prediction.</h1>
+    <p>Explore homes that fit your life, and get a data-informed estimate before you make your move.</p>
+    <div class="hero-cta"><a class="button button-primary" href="{{ url_for('main.properties') }}">Explore properties <span>→</span></a><a class="button button-glass" href="{{ url_for('main.predict') if current_user else url_for('main.register') }}">Estimate a home price</a></div>
+    <div class="hero-trust"><div class="avatar-stack"><span>H</span><span>V</span><span>+</span></div><span>Explore with clarity, buy with confidence</span></div>
+  </div>
+  <div class="hero-note">Thoughtful homes. Smarter decisions.</div>
+</section>
+<section class="quick-search shell">
+  <form action="{{ url_for('main.properties') }}" method="get" class="search-panel">
+    <div class="search-field"><label for="quick-city">City</label><select name="city" id="quick-city"><option value="">All cities</option>{% for city in ["Bengaluru","Mumbai","Pune","Hyderabad","Delhi","Chennai","Kolkata","Ahmedabad"] %}<option>{{ city }}</option>{% endfor %}</select></div>
+    <div class="search-field"><label for="quick-type">Property type</label><select name="property_type" id="quick-type"><option value="">Any type</option><option>Apartment</option><option>Villa</option><option>Independent House</option></select></div>
+    <button class="button button-primary search-submit" type="submit"><span>⌕</span> Search homes</button>
+  </form>
+</section>
+<section class="section shell">
+  <div class="section-heading"><div><span class="eyebrow">A place to begin</span><h2>Featured homes</h2><p>Explore a few of our example listings to get inspired.</p></div><a class="arrow-link" href="{{ url_for('main.properties') }}">See all properties <span>→</span></a></div>
+  <div class="property-grid">{% for property in properties %}{{ property_card(property) }}{% else %}<div class="empty-state">Listings are on the way. Check back soon.</div>{% endfor %}</div>
+  <p class="data-note">Listings shown are sample demo data for this academic project.</p>
+</section>
+<section class="steps-section"><div class="shell"><div class="section-heading centered"><div><span class="eyebrow">Simple by design</span><h2>From curious to confident</h2><p>Your home search, with a little more clarity at every step.</p></div></div>
+  <div class="steps-grid"><article class="step-card"><div class="step-icon">⌕</div><span class="step-number">01</span><h3>Explore what fits</h3><p>Filter sample listings by city, type, budget, bedrooms and area.</p></article><article class="step-card"><div class="step-icon">⌂</div><span class="step-number">02</span><h3>Share the details</h3><p>Tell our machine-learning model about the home you're considering.</p></article><article class="step-card"><div class="step-icon">↗</div><span class="step-number">03</span><h3>Get an estimate</h3><p>See a model-generated price estimate and keep it in your history.</p></article></div>
+</div></section>
+<section class="insight-banner shell"><div class="insight-copy"><span class="eyebrow eyebrow-light">Data, made useful</span><h2>Real estate meets machine learning.</h2><p>HomeValue trains and compares four regression models on a clearly documented synthetic housing dataset. Explore how the models perform before trying an estimate.</p><a class="button button-light" href="{{ url_for('main.model_performance') }}">Explore model insights <span>→</span></a></div><div class="insight-art" aria-hidden="true"><div class="chart-card"><span>Model evaluation</span><div class="chart-lines"><i></i><i></i><i></i><i></i></div><div class="chart-axis"><b></b><b></b><b></b><b></b><b></b></div></div><div class="floating-home">⌂</div></div></section>
+<section class="cta-strip shell"><div><span class="eyebrow">Your next chapter starts here</span><h2>Make room for what matters.</h2></div><a class="button button-primary" href="{{ url_for('main.register') }}">Create your free account <span>→</span></a></section>
+{% endblock %}

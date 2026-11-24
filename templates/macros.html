@@ -1,0 +1,25 @@
+{% macro property_card(property, saved_ids=(), removable=false) %}
+<article class="property-card">
+  <a class="property-image-link" href="{{ url_for('main.property_details', property_id=property.id) }}">
+    <img class="property-image" src="{{ property.image_url or 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=85' }}" alt="{{ property.name }}" loading="lazy">
+    {% if property.is_demo %}<span class="demo-badge">Demo listing</span>{% endif %}
+  </a>
+  <div class="property-card-body">
+    <div class="property-price">₹{{ "{:,.0f}".format(property.price) }}</div>
+    <a class="property-title" href="{{ url_for('main.property_details', property_id=property.id) }}">{{ property.name }}</a>
+    <p class="property-location"><span aria-hidden="true">⌖</span> {{ property.location }}, {{ property.city }}</p>
+    <div class="property-specs"><span>▱ {{ "{:,.0f}".format(property.area_sqft) }} sqft</span><span>▣ {{ property.bedrooms }} beds</span><span>◫ {{ property.bathrooms }} baths</span></div>
+    <div class="card-bottom"><span class="type-pill">{{ property.property_type }}</span>
+      {% if current_user %}
+        {% if removable %}
+          <form method="post" action="{{ url_for('main.remove_saved_property', property_id=property.id) }}"><input type="hidden" name="csrf_token" value="{{ csrf_token }}"><button class="text-button" type="submit">Remove saved</button></form>
+        {% elif property.id in saved_ids %}
+          <a class="text-button" href="{{ url_for('main.saved_properties') }}">♥ Saved</a>
+        {% else %}
+          <form method="post" action="{{ url_for('main.save_property', property_id=property.id) }}"><input type="hidden" name="csrf_token" value="{{ csrf_token }}"><input type="hidden" name="next" value="{{ request.full_path }}"><button class="text-button" type="submit">♡ Save</button></form>
+        {% endif %}
+      {% endif %}
+    </div>
+  </div>
+</article>
+{% endmacro %}

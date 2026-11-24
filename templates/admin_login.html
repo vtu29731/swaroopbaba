@@ -1,0 +1,5 @@
+{% extends "base.html" %}
+{% block title %}Admin sign in | HomeValue{% endblock %}
+{% block content %}
+<section class="admin-login-wrap"><div class="admin-login-card"><span class="admin-lock">⌑</span><span class="eyebrow">Restricted area</span><h1>Admin sign in</h1><p>Sign in with the locally configured administrator account.</p><form method="post" class="form-stack"><input type="hidden" name="csrf_token" value="{{ csrf_token }}"><label>Admin username<input type="text" name="username" required autocomplete="username"></label><label>Password<input type="password" name="password" required autocomplete="current-password"></label><button class="button button-primary button-full" type="submit">Sign in to admin</button></form><a class="back-link" href="{{ url_for('main.home') }}">← Return to HomeValue</a></div></section>
+{% endblock %}

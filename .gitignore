@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+instance/*.db
+trained_models/*.pkl
+trained_models/model_metrics.json
+static/images/model_comparison.png

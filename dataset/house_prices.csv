@@ -1,0 +1,1801 @@
+area_sqft,bedrooms,bathrooms,property_age,city,location,property_type,parking,furnishing,price
+450,2,1.0,8,Chennai,Porur,Apartment,No,Semi-furnished,3320000
+1334,3,3.0,2,Ahmedabad,Satellite,Apartment,Yes,Semi-furnished,7670000
+1348,2,2.0,1,Kolkata,New Town,Apartment,No,Semi-furnished,5410000
+1251,4,3.0,32,Kolkata,New Town,Apartment,Yes,Semi-furnished,5940000
+1407,4,4.0,22,Chennai,Porur,Independent House,No,Semi-furnished,11120000
+1313,2,2.0,19,Mumbai,Thane,Independent House,Yes,Semi-furnished,24620000
+1538,3,3.0,33,Pune,Kharadi,Independent House,No,Semi-furnished,13270000
+2560,6,5.0,15,Kolkata,New Town,Apartment,No,Unfurnished,12980000
+1950,5,5.0,15,Pune,Wakad,Apartment,No,Semi-furnished,12620000
+1220,4,4.0,20,Kolkata,Behala,Apartment,Yes,Semi-furnished,7770000
+1611,4,3.0,32,Mumbai,Thane,Apartment,Yes,Semi-furnished,25530000
+747,3,2.0,31,Pune,Baner,Apartment,Yes,Semi-furnished,5300000
+1306,3,3.0,12,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,8840000
+1613,3,3.0,26,Delhi,Dwarka,Villa,Yes,Semi-furnished,15180000
+2260,6,5.0,24,Kolkata,New Town,Villa,Yes,Unfurnished,11750000
+891,1,1.0,27,Delhi,Saket,Apartment,Yes,Unfurnished,8740000
+926,3,3.0,13,Bengaluru,Electronic City,Apartment,No,Unfurnished,7040000
+1534,3,2.0,20,Pune,Kharadi,Apartment,Yes,Unfurnished,13880000
+1003,5,5.0,30,Delhi,Rohini,Independent House,No,Unfurnished,11040000
+790,1,1.0,14,Delhi,Rohini,Apartment,Yes,Furnished,7450000
+1845,5,5.0,8,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,12270000
+480,2,1.0,21,Chennai,Anna Nagar,Apartment,Yes,Unfurnished,3530000
+1267,2,2.0,16,Pune,Kharadi,Apartment,No,Semi-furnished,9720000
+450,1,1.0,22,Kolkata,Rajarhat,Apartment,No,Semi-furnished,2970000
+1719,3,2.0,12,Hyderabad,Gachibowli,Apartment,No,Semi-furnished,9380000
+1343,5,4.0,7,Pune,Wakad,Apartment,No,Semi-furnished,9700000
+2102,6,5.0,24,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,17510000
+1619,4,4.0,28,Hyderabad,Miyapur,Apartment,No,Unfurnished,11390000
+450,2,1.0,11,Mumbai,Powai,Independent House,Yes,Furnished,8480000
+1750,4,4.0,5,Delhi,Dwarka,Independent House,Yes,Unfurnished,18760000
+1190,3,2.0,9,Chennai,Velachery,Apartment,No,Unfurnished,9300000
+450,1,1.0,6,Ahmedabad,Satellite,Apartment,Yes,Unfurnished,2630000
+2663,6,5.0,9,Delhi,Saket,Apartment,Yes,Unfurnished,26830000
+975,2,2.0,35,Ahmedabad,Bopal,Villa,Yes,Unfurnished,6250000
+1403,3,3.0,27,Ahmedabad,Satellite,Apartment,No,Furnished,8050000
+2566,6,5.0,20,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,25570000
+1413,3,2.0,1,Kolkata,Behala,Apartment,No,Unfurnished,6870000
+1338,3,3.0,5,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,7590000
+1386,3,3.0,2,Chennai,Velachery,Independent House,Yes,,11200000
+1715,4,3.0,24,Mumbai,Powai,Apartment,Yes,Furnished,27900000
+1126,4,4.0,19,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,8630000
+1973,3,3.0,12,Pune,Hinjewadi,Apartment,No,Unfurnished,11530000
+1703,3,3.0,30,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,8070000
+1151,3,2.0,28,Delhi,Dwarka,Villa,Yes,Semi-furnished,13920000
+836,2,2.0,0,Chennai,OMR,Apartment,Yes,Unfurnished,5170000
+1356,4,,18,Kolkata,Salt Lake,Apartment,No,Semi-furnished,7430000
+1075,3,3.0,12,Chennai,Velachery,Apartment,No,Semi-furnished,7920000
+1637,4,4.0,14,Mumbai,Navi Mumbai,Apartment,No,Semi-furnished,24220000
+1711,4,4.0,15,Bengaluru,Electronic City,Apartment,No,Semi-furnished,11460000
+1455,5,5.0,17,Ahmedabad,Satellite,Apartment,Yes,Unfurnished,6980000
+1617,3,2.0,30,Delhi,Saket,Apartment,Yes,Semi-furnished,15530000
+1730,5,5.0,26,Pune,Kharadi,Apartment,Yes,,16160000
+1300,4,4.0,15,Mumbai,Navi Mumbai,Apartment,No,Unfurnished,19570000
+1194,4,4.0,26,Kolkata,Salt Lake,Independent House,No,Semi-furnished,6190000
+1414,2,1.0,12,Mumbai,Thane,Independent House,Yes,Semi-furnished,25710000
+1584,3,3.0,16,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,11610000
+764,4,3.0,13,Kolkata,New Town,Apartment,No,Unfurnished,3370000
+1809,4,4.0,11,Mumbai,Thane,Apartment,No,Unfurnished,25470000
+812,2,1.0,23,Hyderabad,Banjara Hills,Independent House,No,Semi-furnished,6060000
+1444,5,4.0,3,Mumbai,Powai,Apartment,Yes,Semi-furnished,23100000
+2044,6,5.0,14,Delhi,Dwarka,Apartment,Yes,Semi-furnished,17170000
+1275,3,2.0,33,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,7270000
+2012,5,5.0,6,Delhi,Noida Extension,Villa,No,Unfurnished,20820000
+1970,5,4.0,28,Mumbai,Andheri,Apartment,No,Unfurnished,27620000
+2014,5,4.0,26,Chennai,Anna Nagar,Apartment,Yes,Semi-furnished,12890000
+536,1,1.0,13,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,3290000
+638,2,2.0,25,Kolkata,New Town,Apartment,Yes,Unfurnished,2140000
+756,1,1.0,35,Ahmedabad,Gota,Villa,Yes,Unfurnished,5110000
+986,2,2.0,19,Ahmedabad,Prahlad Nagar,Villa,Yes,Furnished,6280000
+1498,4,4.0,34,Bengaluru,Indiranagar,Independent House,Yes,Semi-furnished,11120000
+1336,3,3.0,18,Pune,Hinjewadi,Apartment,No,Unfurnished,7830000
+1614,4,3.0,20,Delhi,Saket,Apartment,No,Semi-furnished,17600000
+1562,3,2.0,24,Mumbai,Powai,Independent House,Yes,Unfurnished,23620000
+1897,5,5.0,24,Pune,Wakad,Villa,Yes,Semi-furnished,17090000
+450,2,2.0,7,Kolkata,New Town,Apartment,Yes,Furnished,2540000
+1179,3,2.0,7,Chennai,OMR,Villa,No,Furnished,8680000
+1977,4,3.0,13,Chennai,Porur,Independent House,Yes,Semi-furnished,17650000
+2342,4,3.0,8,Ahmedabad,Satellite,Apartment,Yes,Semi-furnished,12450000
+1374,3,3.0,25,Pune,Kharadi,Apartment,No,Semi-furnished,10990000
+864,3,3.0,34,Pune,Baner,Apartment,Yes,Unfurnished,6010000
+1431,4,3.0,28,Ahmedabad,Prahlad Nagar,Villa,Yes,Semi-furnished,12180000
+1704,4,4.0,23,Pune,Kharadi,Apartment,No,Furnished,14970000
+1986,5,5.0,24,Chennai,Porur,Apartment,Yes,Furnished,14950000
+1817,4,4.0,15,Pune,Hinjewadi,Independent House,Yes,Unfurnished,15990000
+734,2,1.0,22,Pune,Hinjewadi,Apartment,No,Semi-furnished,4840000
+1133,4,4.0,29,Kolkata,Behala,Apartment,Yes,Semi-furnished,6160000
+909,3,2.0,30,Ahmedabad,Gota,Independent House,Yes,Semi-furnished,6760000
+1122,3,3.0,15,Kolkata,Rajarhat,Independent House,Yes,Unfurnished,7240000
+1691,3,3.0,17,Chennai,Porur,Apartment,Yes,Semi-furnished,11790000
+1256,4,3.0,8,Kolkata,Salt Lake,Independent House,Yes,Unfurnished,7440000
+882,2,2.0,26,Mumbai,Navi Mumbai,Apartment,Yes,Furnished,17140000
+733,2,1.0,18,Delhi,Rohini,Apartment,Yes,Unfurnished,6180000
+1189,3,2.0,8,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,10200000
+1751,4,,8,Ahmedabad,Bopal,Villa,Yes,Unfurnished,11470000
+2584,6,5.0,23,Mumbai,Andheri,Independent House,Yes,Semi-furnished,49540000
+1532,4,3.0,12,Mumbai,Powai,Apartment,Yes,Semi-furnished,26340000
+1217,4,3.0,33,Ahmedabad,Satellite,Independent House,Yes,Unfurnished,7020000
+1657,4,4.0,11,Ahmedabad,Prahlad Nagar,Apartment,No,Unfurnished,8810000
+917,2,2.0,10,Mumbai,Powai,Apartment,Yes,Unfurnished,13760000
+1427,3,3.0,1,Pune,Kharadi,Villa,Yes,Unfurnished,17710000
+879,4,4.0,3,Mumbai,Powai,Independent House,Yes,Unfurnished,14500000
+1860,4,4.0,31,Hyderabad,Miyapur,Apartment,Yes,Unfurnished,15550000
+1667,5,5.0,13,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,12960000
+1598,3,3.0,29,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,8690000
+2509,6,5.0,5,Chennai,Porur,Villa,Yes,Furnished,26440000
+707,2,1.0,24,Chennai,OMR,Apartment,Yes,Unfurnished,4090000
+746,2,1.0,8,Ahmedabad,Prahlad Nagar,Apartment,No,Unfurnished,4600000
+968,4,4.0,4,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,10210000
+530,2,2.0,7,Pune,Wakad,Apartment,Yes,Unfurnished,4820000
+1103,2,2.0,34,Pune,Wakad,Apartment,No,Unfurnished,9250000
+501,2,1.0,18,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,8740000
+2243,4,3.0,26,Ahmedabad,Satellite,Apartment,Yes,Furnished,11890000
+1701,4,3.0,11,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,16030000
+479,3,2.0,26,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,3580000
+1071,2,2.0,12,Chennai,Anna Nagar,Independent House,Yes,Semi-furnished,6880000
+2490,5,5.0,14,Chennai,OMR,Apartment,Yes,,12090000
+1555,3,2.0,1,Bengaluru,Electronic City,Apartment,Yes,Semi-furnished,14560000
+1327,3,3.0,9,Pune,Baner,Apartment,No,Unfurnished,9790000
+1295,2,2.0,30,Mumbai,Powai,Apartment,Yes,Semi-furnished,25800000
+1200,4,4.0,18,Hyderabad,Gachibowli,Apartment,Yes,Furnished,8840000
+640,1,1.0,16,Pune,Kharadi,Apartment,No,Furnished,4400000
+1853,4,3.0,29,Kolkata,New Town,Apartment,Yes,Semi-furnished,8690000
+1118,2,2.0,3,Mumbai,Powai,Apartment,Yes,Unfurnished,18720000
+1564,6,5.0,11,Kolkata,New Town,Apartment,Yes,Unfurnished,7800000
+638,1,1.0,9,Mumbai,Powai,Independent House,Yes,Semi-furnished,10950000
+809,2,2.0,19,Bengaluru,Whitefield,Apartment,Yes,Unfurnished,6330000
+894,2,2.0,21,Bengaluru,Electronic City,Apartment,No,Semi-furnished,7240000
+790,3,3.0,20,Ahmedabad,Satellite,Apartment,Yes,Semi-furnished,4630000
+1734,3,3.0,25,Bengaluru,Indiranagar,Villa,Yes,Unfurnished,19320000
+1494,5,4.0,3,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,10750000
+934,2,2.0,33,Kolkata,New Town,Apartment,Yes,Semi-furnished,3840000
+1156,2,2.0,28,Delhi,Rohini,Apartment,Yes,Unfurnished,9170000
+1033,3,3.0,14,Bengaluru,Whitefield,Independent House,Yes,Unfurnished,7790000
+1585,5,4.0,9,Delhi,Dwarka,Apartment,Yes,Unfurnished,12170000
+982,2,2.0,4,Kolkata,New Town,Apartment,Yes,Furnished,5910000
+1300,4,4.0,8,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,9990000
+1026,4,4.0,26,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,5250000
+2006,5,5.0,17,Ahmedabad,Gota,Independent House,No,Unfurnished,16830000
+1541,3,3.0,1,Kolkata,New Town,Apartment,Yes,Semi-furnished,8010000
+1287,3,2.0,14,Chennai,Porur,Apartment,Yes,Unfurnished,9840000
+450,2,1.0,9,Chennai,OMR,Apartment,No,Semi-furnished,2500000
+1923,5,4.0,26,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,12320000
+1374,3,3.0,22,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,7660000
+1337,3,3.0,11,Chennai,Porur,Apartment,Yes,Semi-furnished,9630000
+1124,2,2.0,19,Kolkata,Behala,Independent House,No,Unfurnished,5900000
+2103,6,5.0,29,Chennai,Porur,Villa,Yes,,18380000
+1789,3,2.0,15,Delhi,Rohini,Apartment,Yes,Unfurnished,15720000
+1578,3,3.0,33,Mumbai,Andheri,Apartment,Yes,Furnished,28710000
+1173,3,2.0,31,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,8230000
+1487,3,3.0,26,Hyderabad,Gachibowli,Apartment,No,Semi-furnished,10470000
+1875,5,5.0,21,Chennai,Porur,Independent House,No,Unfurnished,16510000
+672,2,2.0,4,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,6920000
+1622,4,4.0,35,Delhi,Saket,Independent House,Yes,Unfurnished,14640000
+1448,3,3.0,33,Bengaluru,Indiranagar,Apartment,Yes,Furnished,15470000
+1470,3,2.0,5,Mumbai,Powai,Villa,Yes,Furnished,27200000
+809,3,2.0,22,Mumbai,Powai,Villa,Yes,Unfurnished,15090000
+1020,2,1.0,34,Delhi,Dwarka,Apartment,Yes,Unfurnished,7370000
+2123,4,4.0,31,Chennai,Anna Nagar,Apartment,Yes,Unfurnished,18930000
+883,3,2.0,19,Chennai,Porur,Apartment,Yes,Furnished,7000000
+1777,5,5.0,13,Delhi,Rohini,Villa,No,Furnished,21240000
+1782,4,4.0,27,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,18810000
+1922,6,5.0,17,Hyderabad,Miyapur,Apartment,Yes,Furnished,17220000
+1110,2,2.0,1,Chennai,Velachery,Independent House,Yes,Semi-furnished,7550000
+1322,3,3.0,9,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,8530000
+1366,3,3.0,27,Delhi,Saket,Independent House,Yes,Semi-furnished,13480000
+1617,4,4.0,9,Delhi,Rohini,Apartment,Yes,Unfurnished,14470000
+1343,3,3.0,10,Ahmedabad,Bopal,Villa,Yes,Unfurnished,8480000
+450,1,1.0,24,Chennai,Velachery,Apartment,Yes,Semi-furnished,2510000
+2183,4,4.0,12,Hyderabad,Kondapur,Apartment,Yes,Furnished,14620000
+1141,5,4.0,32,Mumbai,Andheri,Villa,Yes,Semi-furnished,25560000
+878,3,2.0,14,Mumbai,Powai,Apartment,Yes,Semi-furnished,13680000
+1649,3,3.0,17,Kolkata,New Town,Independent House,Yes,Semi-furnished,9980000
+2570,5,5.0,28,Mumbai,Andheri,Apartment,Yes,Furnished,48680000
+893,3,3.0,33,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,4180000
+1164,3,3.0,22,Bengaluru,Sarjapur Road,Apartment,Yes,Semi-furnished,10360000
+1553,4,4.0,10,Chennai,Velachery,Apartment,Yes,Unfurnished,12570000
+1115,4,3.0,19,Pune,Hinjewadi,Independent House,No,Unfurnished,7310000
+917,3,3.0,7,Hyderabad,Kondapur,Apartment,No,Semi-furnished,6520000
+1658,4,4.0,20,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,12620000
+869,2,1.0,4,Chennai,Porur,Apartment,Yes,Unfurnished,6490000
+1890,2,1.0,24,Hyderabad,Banjara Hills,Independent House,Yes,Unfurnished,19460000
+1044,2,1.0,6,Bengaluru,Whitefield,Apartment,Yes,Furnished,8710000
+1021,3,2.0,8,Chennai,Anna Nagar,Villa,Yes,Furnished,8570000
+2137,5,5.0,10,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,11890000
+843,3,3.0,9,Pune,Hinjewadi,Independent House,Yes,Semi-furnished,8610000
+1783,5,5.0,24,Hyderabad,Miyapur,Apartment,Yes,Semi-furnished,13870000
+1095,3,3.0,3,Kolkata,Behala,Apartment,Yes,Unfurnished,5810000
+931,3,2.0,33,Pune,Hinjewadi,Apartment,Yes,Furnished,6660000
+1367,4,3.0,30,Chennai,Porur,Apartment,No,Unfurnished,10290000
+1101,3,2.0,29,Delhi,Saket,Apartment,Yes,Semi-furnished,9090000
+764,2,1.0,17,Hyderabad,Banjara Hills,Independent House,No,Furnished,8060000
+1616,4,4.0,26,Mumbai,Powai,Apartment,Yes,Furnished,27290000
+1285,3,2.0,5,Hyderabad,Banjara Hills,Apartment,No,Unfurnished,10330000
+1877,5,4.0,10,Mumbai,Navi Mumbai,Independent House,No,Semi-furnished,39500000
+2704,6,5.0,35,Ahmedabad,Bopal,Villa,Yes,Unfurnished,17630000
+1030,4,4.0,9,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,4450000
+1731,5,4.0,10,Chennai,Porur,Apartment,No,Semi-furnished,10020000
+808,2,2.0,4,Hyderabad,Miyapur,Apartment,Yes,Furnished,7230000
+935,4,3.0,35,Pune,Wakad,Villa,No,Semi-furnished,7300000
+1646,4,4.0,29,Kolkata,Salt Lake,Villa,Yes,Semi-furnished,9540000
+1107,4,3.0,1,Chennai,OMR,Apartment,Yes,Unfurnished,5900000
+1014,2,2.0,31,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,5170000
+971,1,1.0,11,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,5530000
+611,2,2.0,15,Chennai,Velachery,Villa,No,Semi-furnished,5100000
+1228,3,3.0,33,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,6820000
+939,3,2.0,11,Mumbai,Navi Mumbai,Independent House,Yes,Unfurnished,19360000
+929,2,2.0,6,Chennai,Velachery,Apartment,Yes,Semi-furnished,6740000
+2828,6,5.0,33,Kolkata,Salt Lake,Independent House,Yes,Furnished,14180000
+2270,5,5.0,2,Pune,Kharadi,Apartment,Yes,,23380000
+1621,5,4.0,16,Hyderabad,Banjara Hills,Apartment,Yes,Unfurnished,10850000
+1662,3,2.0,3,Bengaluru,Sarjapur Road,Villa,No,Semi-furnished,14660000
+1397,4,4.0,11,Kolkata,New Town,Apartment,No,Semi-furnished,7850000
+706,3,2.0,9,Pune,Baner,Villa,Yes,Furnished,6560000
+743,2,1.0,7,Mumbai,Navi Mumbai,Apartment,Yes,Furnished,14480000
+1709,3,3.0,8,Kolkata,Behala,Apartment,Yes,Unfurnished,9990000
+1481,4,4.0,20,Pune,Baner,Apartment,Yes,Semi-furnished,11390000
+1736,4,4.0,19,Delhi,Noida Extension,Apartment,No,Semi-furnished,17760000
+1007,2,2.0,22,Chennai,OMR,Independent House,Yes,Unfurnished,6900000
+1862,4,3.0,33,Pune,Wakad,Apartment,No,,14990000
+1322,2,1.0,18,Chennai,Porur,Apartment,Yes,Semi-furnished,8310000
+758,2,1.0,26,Mumbai,Thane,Villa,Yes,Furnished,16430000
+1932,4,,21,Bengaluru,Electronic City,Independent House,Yes,Unfurnished,14230000
+1234,4,3.0,13,Delhi,Rohini,Apartment,No,,10500000
+1253,2,2.0,3,Kolkata,Behala,Apartment,Yes,Semi-furnished,8870000
+1020,4,4.0,26,Ahmedabad,Bopal,Independent House,No,Semi-furnished,7010000
+1610,4,3.0,30,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,11040000
+1779,3,3.0,13,Mumbai,Powai,Independent House,Yes,Unfurnished,34470000
+711,2,2.0,20,Hyderabad,Miyapur,Apartment,Yes,Semi-furnished,4820000
+475,2,1.0,13,Ahmedabad,Gota,Apartment,Yes,Unfurnished,2630000
+869,3,2.0,27,Hyderabad,Banjara Hills,Villa,No,Semi-furnished,8440000
+835,2,2.0,3,Bengaluru,Sarjapur Road,Apartment,Yes,Furnished,8720000
+450,1,1.0,28,Delhi,Rohini,Apartment,Yes,Semi-furnished,3750000
+2180,5,5.0,14,Chennai,Anna Nagar,Apartment,Yes,Furnished,17550000
+2194,5,5.0,23,Pune,Wakad,Apartment,Yes,Furnished,22020000
+450,1,1.0,11,Pune,Baner,Independent House,No,Semi-furnished,3180000
+1513,3,2.0,35,Hyderabad,Miyapur,Apartment,Yes,Semi-furnished,9680000
+1331,4,4.0,19,Hyderabad,Gachibowli,Villa,Yes,Furnished,10240000
+1540,4,4.0,6,Chennai,OMR,Apartment,Yes,Semi-furnished,8050000
+1375,3,3.0,34,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,10130000
+1453,4,3.0,19,Mumbai,Navi Mumbai,Apartment,Yes,Furnished,28290000
+1433,3,3.0,32,Delhi,Dwarka,Apartment,Yes,Unfurnished,13650000
+1018,3,2.0,23,Pune,Hinjewadi,Apartment,No,Semi-furnished,7860000
+2270,4,4.0,6,Chennai,Porur,Apartment,No,Unfurnished,14870000
+816,1,1.0,17,Ahmedabad,Prahlad Nagar,Apartment,No,Semi-furnished,5530000
+960,2,2.0,22,Hyderabad,Gachibowli,Apartment,No,Furnished,6090000
+1262,3,3.0,2,Ahmedabad,Satellite,Independent House,Yes,Furnished,9570000
+1708,4,4.0,17,Kolkata,New Town,Apartment,Yes,Unfurnished,8140000
+1282,3,3.0,19,Mumbai,Andheri,Independent House,Yes,Semi-furnished,24590000
+1804,5,5.0,27,Mumbai,Thane,Apartment,Yes,Semi-furnished,29490000
+1373,3,3.0,4,Ahmedabad,Prahlad Nagar,Apartment,No,Unfurnished,7940000
+1879,5,5.0,33,Ahmedabad,Satellite,Apartment,Yes,Furnished,12210000
+681,1,1.0,3,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,5800000
+1172,2,2.0,16,Delhi,Noida Extension,Independent House,No,Furnished,15580000
+1980,4,4.0,23,Hyderabad,Kondapur,Apartment,Yes,,16220000
+1703,3,3.0,19,Hyderabad,Gachibowli,Apartment,No,Unfurnished,11670000
+1966,5,5.0,10,Mumbai,Powai,Apartment,Yes,Unfurnished,27920000
+1722,5,5.0,23,Chennai,Velachery,Apartment,No,Unfurnished,10270000
+1424,4,4.0,20,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,21620000
+1388,3,3.0,32,Chennai,OMR,Apartment,No,Semi-furnished,7570000
+1634,3,3.0,8,Delhi,Noida Extension,Independent House,Yes,Semi-furnished,19680000
+1478,4,4.0,10,Pune,Baner,Villa,Yes,Furnished,12340000
+936,2,2.0,6,Pune,Kharadi,Independent House,Yes,Unfurnished,8590000
+1214,3,3.0,0,Ahmedabad,Bopal,Independent House,Yes,Semi-furnished,9030000
+1553,4,3.0,6,Chennai,Porur,Apartment,Yes,Semi-furnished,12370000
+450,1,1.0,6,Mumbai,Thane,Apartment,Yes,Furnished,7420000
+706,3,2.0,18,Mumbai,Thane,Apartment,Yes,Furnished,13290000
+1769,4,3.0,14,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,19160000
+1078,2,1.0,0,Chennai,OMR,Apartment,No,Unfurnished,6800000
+1030,2,,25,Bengaluru,Whitefield,Apartment,Yes,Furnished,7560000
+1060,2,2.0,11,Kolkata,Salt Lake,Apartment,Yes,Furnished,5680000
+695,1,1.0,3,Hyderabad,Miyapur,Independent House,No,Semi-furnished,5340000
+1616,4,4.0,21,Delhi,Rohini,Apartment,Yes,Unfurnished,15600000
+935,2,1.0,34,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,8040000
+1054,3,3.0,3,Chennai,Velachery,Apartment,Yes,Semi-furnished,9230000
+1684,5,5.0,16,Mumbai,Navi Mumbai,Villa,Yes,Semi-furnished,40310000
+2090,5,5.0,1,Kolkata,New Town,Independent House,Yes,Semi-furnished,12870000
+914,2,2.0,35,Pune,Hinjewadi,Apartment,Yes,Semi-furnished,6650000
+1395,4,4.0,7,Kolkata,Behala,Independent House,Yes,Unfurnished,9030000
+1255,4,3.0,21,Ahmedabad,Prahlad Nagar,Apartment,Yes,Furnished,7950000
+2003,4,4.0,35,Pune,Kharadi,Independent House,No,Unfurnished,17620000
+1586,4,4.0,10,Mumbai,Thane,Villa,No,Unfurnished,22610000
+1503,3,2.0,12,Kolkata,Rajarhat,Apartment,Yes,Semi-furnished,10080000
+1501,3,2.0,27,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,12850000
+1638,4,3.0,18,Hyderabad,Banjara Hills,Apartment,Yes,Unfurnished,10910000
+450,2,1.0,34,Mumbai,Thane,Apartment,Yes,Unfurnished,7770000
+1339,4,4.0,29,Delhi,Dwarka,Apartment,Yes,Semi-furnished,11630000
+2019,5,5.0,17,Bengaluru,Electronic City,Villa,No,Unfurnished,17860000
+955,3,3.0,14,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,4910000
+2062,5,4.0,16,Kolkata,Behala,Apartment,Yes,Semi-furnished,16050000
+1339,4,3.0,1,Kolkata,Behala,Independent House,Yes,Unfurnished,10150000
+2418,6,5.0,1,Chennai,Porur,Apartment,Yes,Unfurnished,20760000
+450,1,1.0,29,Pune,Wakad,Villa,Yes,Unfurnished,4460000
+1854,5,5.0,7,Pune,Wakad,Villa,Yes,Furnished,20330000
+1328,3,2.0,27,Pune,Wakad,Apartment,Yes,Unfurnished,10710000
+1265,5,4.0,9,Hyderabad,Kondapur,Independent House,Yes,Semi-furnished,9610000
+1331,2,2.0,16,Bengaluru,Indiranagar,Independent House,Yes,Furnished,15230000
+1144,3,2.0,20,Kolkata,New Town,Apartment,Yes,Semi-furnished,5680000
+858,3,3.0,7,Pune,Wakad,Apartment,Yes,Unfurnished,7350000
+1206,3,3.0,27,Mumbai,Andheri,Independent House,Yes,Semi-furnished,22240000
+999,2,2.0,28,Kolkata,Behala,Apartment,Yes,Semi-furnished,6250000
+2025,4,3.0,24,Pune,Kharadi,Apartment,Yes,Unfurnished,14370000
+572,3,3.0,14,Kolkata,Behala,Apartment,Yes,Unfurnished,3570000
+748,2,1.0,9,Delhi,Saket,Villa,Yes,Semi-furnished,10450000
+1304,2,2.0,2,Chennai,Velachery,Apartment,Yes,Unfurnished,9680000
+1298,4,3.0,20,Delhi,Dwarka,Apartment,Yes,Furnished,9220000
+1418,4,3.0,16,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,7530000
+925,2,1.0,25,Delhi,Saket,Apartment,No,,7840000
+1898,5,5.0,33,Kolkata,Behala,Apartment,Yes,Semi-furnished,12850000
+2885,6,5.0,0,Kolkata,Behala,Apartment,Yes,Unfurnished,14800000
+1551,5,5.0,22,Pune,Baner,Apartment,Yes,Unfurnished,11170000
+689,3,3.0,17,Mumbai,Andheri,Villa,Yes,Furnished,16940000
+915,1,1.0,5,Mumbai,Navi Mumbai,Villa,Yes,Semi-furnished,20450000
+896,2,2.0,6,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,5840000
+1141,2,1.0,9,Kolkata,New Town,Apartment,No,Unfurnished,6280000
+1355,4,3.0,17,Pune,Kharadi,Apartment,No,Furnished,13530000
+1105,2,1.0,13,Bengaluru,Indiranagar,Apartment,Yes,Furnished,8940000
+2139,5,4.0,18,Hyderabad,Kondapur,Apartment,Yes,Unfurnished,14310000
+921,2,2.0,25,Pune,Baner,Apartment,No,Unfurnished,5400000
+2101,5,,29,Bengaluru,Whitefield,Apartment,Yes,Unfurnished,14750000
+1370,3,2.0,3,Pune,Wakad,Apartment,Yes,Unfurnished,11860000
+1243,3,3.0,8,Ahmedabad,Prahlad Nagar,Independent House,Yes,Furnished,8520000
+1822,4,4.0,2,Mumbai,Andheri,Apartment,Yes,Furnished,35010000
+1104,4,4.0,28,Kolkata,Salt Lake,Apartment,No,Furnished,6090000
+1082,3,3.0,28,Mumbai,Thane,Apartment,No,Semi-furnished,19640000
+1232,4,4.0,31,Pune,Kharadi,Apartment,Yes,Semi-furnished,10960000
+1167,3,3.0,13,Kolkata,Behala,Apartment,Yes,Semi-furnished,8260000
+1601,4,4.0,15,Delhi,Rohini,Apartment,Yes,Furnished,15140000
+1359,3,2.0,14,Delhi,Rohini,Independent House,Yes,Unfurnished,14480000
+757,1,1.0,10,Hyderabad,Miyapur,Apartment,Yes,Semi-furnished,5680000
+450,2,2.0,1,Kolkata,Behala,Apartment,Yes,Unfurnished,2710000
+1228,4,4.0,11,Hyderabad,Banjara Hills,Apartment,No,Furnished,8030000
+1354,2,1.0,12,Hyderabad,Gachibowli,Apartment,No,Unfurnished,9030000
+2036,4,4.0,12,Kolkata,Rajarhat,Independent House,Yes,Semi-furnished,12680000
+1181,3,3.0,9,Delhi,Dwarka,Villa,No,Unfurnished,12240000
+1641,3,3.0,3,Hyderabad,Gachibowli,Apartment,Yes,Unfurnished,12410000
+450,2,2.0,5,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,3650000
+1890,4,4.0,26,Kolkata,New Town,Villa,Yes,Semi-furnished,10750000
+621,2,2.0,10,Hyderabad,Kondapur,Independent House,No,Furnished,4590000
+1509,4,4.0,1,Hyderabad,Miyapur,Apartment,Yes,Unfurnished,12720000
+1468,3,,17,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,9910000
+1264,3,3.0,3,Ahmedabad,Gota,Apartment,No,Unfurnished,7310000
+1509,4,3.0,21,Delhi,Rohini,Independent House,Yes,Furnished,15630000
+971,3,3.0,5,Ahmedabad,Prahlad Nagar,Independent House,Yes,Unfurnished,6410000
+1784,4,4.0,27,Mumbai,Andheri,Apartment,Yes,Semi-furnished,33520000
+1015,3,2.0,30,Bengaluru,Whitefield,Apartment,Yes,Furnished,6620000
+1389,4,3.0,14,Chennai,Velachery,Apartment,Yes,,8670000
+1383,3,2.0,22,Mumbai,Powai,Apartment,Yes,Unfurnished,20400000
+755,2,2.0,3,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,4350000
+1065,4,4.0,13,Bengaluru,Sarjapur Road,Independent House,No,Unfurnished,9890000
+1298,3,2.0,23,Hyderabad,Kondapur,Apartment,Yes,Unfurnished,8790000
+1770,4,4.0,4,Mumbai,Thane,Villa,Yes,Semi-furnished,40400000
+714,3,2.0,6,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,4200000
+1122,3,3.0,4,Pune,Baner,Apartment,Yes,Unfurnished,7180000
+1805,6,5.0,10,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,10520000
+1450,3,3.0,16,Ahmedabad,Satellite,Apartment,Yes,Furnished,7640000
+450,3,3.0,25,Mumbai,Thane,Independent House,Yes,Semi-furnished,7280000
+1266,3,2.0,5,Kolkata,Rajarhat,Independent House,Yes,Furnished,9690000
+1008,4,4.0,7,Kolkata,Behala,Apartment,No,Semi-furnished,6860000
+1170,3,2.0,6,Mumbai,Navi Mumbai,Villa,Yes,Semi-furnished,29160000
+2029,4,3.0,35,Chennai,Anna Nagar,Independent House,Yes,Semi-furnished,16150000
+521,3,3.0,22,Hyderabad,Gachibowli,Villa,Yes,Unfurnished,3560000
+1926,3,3.0,24,Chennai,Velachery,Apartment,Yes,Semi-furnished,11660000
+2396,4,3.0,23,Mumbai,Powai,Apartment,No,Furnished,36330000
+704,1,1.0,14,Mumbai,Andheri,Independent House,Yes,Unfurnished,11090000
+1360,3,3.0,6,Hyderabad,Miyapur,Villa,No,Furnished,13810000
+1032,4,3.0,3,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,8890000
+1822,5,5.0,12,Delhi,Saket,Independent House,No,Unfurnished,19310000
+1322,3,3.0,0,Mumbai,Powai,Apartment,Yes,Unfurnished,19960000
+1676,4,3.0,25,Bengaluru,Electronic City,Apartment,Yes,Furnished,18360000
+2329,4,4.0,7,Ahmedabad,Bopal,Independent House,Yes,Semi-furnished,13540000
+1270,2,2.0,6,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,9500000
+1343,3,3.0,21,Delhi,Rohini,Villa,Yes,Semi-furnished,15430000
+1667,4,4.0,11,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,9250000
+948,3,3.0,14,Delhi,Saket,Apartment,Yes,Furnished,9060000
+1716,3,3.0,7,Delhi,Saket,Apartment,Yes,Semi-furnished,17610000
+1729,4,3.0,9,Ahmedabad,Prahlad Nagar,Apartment,No,Furnished,10160000
+993,2,2.0,1,Pune,Kharadi,Apartment,No,Semi-furnished,9790000
+1973,5,4.0,7,Delhi,Saket,Apartment,Yes,Unfurnished,16840000
+1169,3,3.0,0,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,9480000
+1051,2,2.0,22,Delhi,Noida Extension,Villa,Yes,Unfurnished,12440000
+1795,3,2.0,5,Delhi,Dwarka,Independent House,Yes,Unfurnished,15150000
+1717,4,4.0,18,Mumbai,Powai,Apartment,Yes,Semi-furnished,19990000
+1062,3,3.0,29,Kolkata,Behala,Apartment,Yes,Furnished,8410000
+1377,4,3.0,20,Bengaluru,Indiranagar,Independent House,No,Unfurnished,13850000
+1499,4,4.0,10,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,12160000
+1728,4,4.0,24,Delhi,Dwarka,Apartment,No,Semi-furnished,14280000
+1234,4,4.0,8,Hyderabad,Miyapur,Independent House,Yes,Semi-furnished,9800000
+1490,3,2.0,11,Hyderabad,Gachibowli,Apartment,No,Semi-furnished,11860000
+1491,4,4.0,20,Delhi,Saket,Villa,Yes,Semi-furnished,17060000
+1951,4,4.0,35,Pune,Wakad,Apartment,No,Unfurnished,15670000
+1655,5,5.0,20,Delhi,Saket,Independent House,Yes,Semi-furnished,20090000
+2084,5,4.0,14,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,19100000
+1260,3,2.0,13,Hyderabad,Banjara Hills,Villa,Yes,Semi-furnished,9020000
+1073,1,1.0,27,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,19310000
+565,2,1.0,0,Hyderabad,Kondapur,Apartment,No,Unfurnished,2950000
+1890,5,5.0,30,Mumbai,Thane,Independent House,Yes,Semi-furnished,31890000
+1858,4,3.0,25,Kolkata,Salt Lake,Apartment,No,Furnished,9360000
+1235,2,1.0,30,Hyderabad,Kondapur,Apartment,Yes,Furnished,9220000
+1315,3,2.0,32,Delhi,Rohini,Apartment,Yes,Furnished,11960000
+1032,2,2.0,5,Chennai,Anna Nagar,Apartment,No,Semi-furnished,7860000
+1438,3,3.0,2,Kolkata,Salt Lake,Villa,Yes,Unfurnished,9370000
+1527,4,3.0,14,Bengaluru,Electronic City,Apartment,No,Semi-furnished,12630000
+1359,4,4.0,26,Mumbai,Powai,Independent House,Yes,Unfurnished,23170000
+1415,4,4.0,6,Chennai,OMR,Apartment,Yes,Unfurnished,7950000
+970,2,2.0,17,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,3830000
+681,2,2.0,22,Pune,Baner,Apartment,No,Semi-furnished,4730000
+1097,4,3.0,12,Kolkata,Rajarhat,Villa,No,Unfurnished,7750000
+1501,5,5.0,1,Chennai,OMR,Apartment,No,Semi-furnished,9430000
+2087,5,5.0,17,Pune,Wakad,Apartment,No,Furnished,12590000
+1752,4,4.0,13,Hyderabad,Miyapur,Villa,No,Semi-furnished,14730000
+1229,4,4.0,34,Mumbai,Andheri,Apartment,Yes,Unfurnished,21540000
+1071,3,3.0,35,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,7620000
+1217,4,4.0,6,Pune,Hinjewadi,Independent House,Yes,Unfurnished,10060000
+1668,4,4.0,26,Mumbai,Powai,Apartment,No,Unfurnished,23700000
+1502,4,4.0,16,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,12610000
+603,3,2.0,2,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,7040000
+1727,6,5.0,28,Pune,Baner,Villa,Yes,Semi-furnished,14750000
+1962,4,4.0,35,Pune,Hinjewadi,Independent House,Yes,Semi-furnished,16770000
+753,2,2.0,19,Chennai,Porur,Villa,Yes,Semi-furnished,7960000
+1306,4,4.0,28,Hyderabad,Gachibowli,Villa,Yes,Unfurnished,11310000
+1961,4,4.0,21,Ahmedabad,Bopal,Villa,Yes,Furnished,14850000
+1317,4,4.0,18,Delhi,Noida Extension,Apartment,No,Unfurnished,11740000
+1815,4,,30,Pune,Wakad,Apartment,Yes,Semi-furnished,16850000
+1586,4,4.0,5,Hyderabad,Gachibowli,Villa,Yes,Semi-furnished,14480000
+1342,2,2.0,34,Chennai,Velachery,Apartment,Yes,Semi-furnished,9220000
+681,2,2.0,30,Hyderabad,Gachibowli,Apartment,Yes,Furnished,4540000
+1728,5,5.0,26,Bengaluru,Whitefield,Independent House,No,Semi-furnished,13750000
+875,2,1.0,9,Pune,Wakad,Independent House,Yes,Semi-furnished,7890000
+1663,3,2.0,31,Mumbai,Powai,Villa,Yes,Unfurnished,30150000
+602,1,1.0,16,Delhi,Saket,Villa,Yes,Semi-furnished,7560000
+1062,3,2.0,26,Hyderabad,Miyapur,Independent House,Yes,Furnished,7800000
+1527,4,4.0,18,Chennai,Velachery,Apartment,No,Furnished,10010000
+1059,2,2.0,23,Pune,Baner,Apartment,Yes,Semi-furnished,7680000
+1683,4,4.0,27,Pune,Kharadi,Apartment,Yes,Furnished,15940000
+975,4,4.0,23,Mumbai,Powai,Apartment,No,Semi-furnished,12480000
+1568,3,3.0,4,Chennai,Anna Nagar,Apartment,No,Furnished,12950000
+1442,4,4.0,3,Kolkata,Behala,Apartment,Yes,Semi-furnished,7410000
+1535,5,4.0,18,Delhi,Noida Extension,Apartment,Yes,Unfurnished,14300000
+2327,5,4.0,0,Hyderabad,Miyapur,Independent House,Yes,Unfurnished,17550000
+1773,5,4.0,16,Chennai,Velachery,Apartment,Yes,Semi-furnished,11940000
+2195,5,4.0,23,Ahmedabad,Bopal,Apartment,Yes,Furnished,11650000
+1296,3,2.0,26,Chennai,Porur,Apartment,Yes,Semi-furnished,9290000
+1845,5,4.0,14,Hyderabad,Banjara Hills,Villa,Yes,Semi-furnished,17310000
+1625,4,4.0,31,Pune,Wakad,Villa,Yes,Furnished,19120000
+1338,3,2.0,11,Pune,Kharadi,Apartment,Yes,Semi-furnished,11540000
+1399,4,4.0,3,Delhi,Rohini,Independent House,Yes,Furnished,10270000
+1684,4,3.0,35,Kolkata,Behala,Villa,Yes,Furnished,11930000
+1439,4,4.0,31,Mumbai,Thane,Apartment,Yes,Unfurnished,22770000
+1547,4,4.0,8,Bengaluru,Electronic City,Independent House,No,Semi-furnished,12890000
+1617,4,4.0,5,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,13570000
+942,2,1.0,4,Delhi,Dwarka,Apartment,Yes,Furnished,9110000
+1904,5,5.0,14,Chennai,OMR,Apartment,Yes,Semi-furnished,11200000
+1901,3,2.0,7,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,11840000
+1618,4,3.0,35,Kolkata,Rajarhat,Apartment,Yes,Furnished,9450000
+1478,3,3.0,4,Kolkata,Behala,Apartment,Yes,Semi-furnished,11850000
+1571,4,4.0,7,Chennai,Porur,Apartment,Yes,Furnished,11520000
+2192,4,4.0,24,Pune,Wakad,Apartment,Yes,Unfurnished,15980000
+1301,3,3.0,10,Delhi,Noida Extension,Villa,Yes,Unfurnished,15810000
+1743,3,3.0,29,Kolkata,Rajarhat,Apartment,No,Unfurnished,7420000
+921,4,3.0,2,Kolkata,New Town,Apartment,Yes,Unfurnished,4930000
+940,4,4.0,25,Pune,Baner,Independent House,Yes,Semi-furnished,7970000
+1369,2,2.0,0,Hyderabad,Gachibowli,Apartment,No,Semi-furnished,8290000
+1663,4,3.0,29,Delhi,Dwarka,Apartment,Yes,Furnished,15570000
+1294,3,3.0,35,Chennai,OMR,Independent House,Yes,Semi-furnished,8330000
+979,2,1.0,4,Kolkata,Behala,Apartment,Yes,Semi-furnished,6680000
+1423,4,3.0,27,Chennai,OMR,Apartment,Yes,Unfurnished,8880000
+688,2,2.0,25,Kolkata,New Town,Apartment,Yes,Semi-furnished,3420000
+1925,5,5.0,18,Pune,Wakad,Apartment,Yes,Unfurnished,15970000
+1372,4,4.0,12,Mumbai,Navi Mumbai,Apartment,Yes,,25820000
+2120,4,3.0,29,Hyderabad,Miyapur,Independent House,Yes,Unfurnished,16620000
+1766,4,4.0,33,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,32950000
+1418,3,3.0,6,Bengaluru,Sarjapur Road,Apartment,No,Semi-furnished,9280000
+1773,4,4.0,21,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,19130000
+1435,4,4.0,24,Ahmedabad,Prahlad Nagar,Independent House,Yes,Unfurnished,9020000
+1042,2,2.0,18,Delhi,Dwarka,Apartment,No,Semi-furnished,8440000
+2650,6,5.0,11,Ahmedabad,Prahlad Nagar,Independent House,Yes,Semi-furnished,18680000
+1118,3,2.0,20,Bengaluru,Whitefield,Independent House,Yes,Unfurnished,7670000
+1666,3,3.0,32,Delhi,Dwarka,Apartment,Yes,Semi-furnished,13240000
+1126,2,2.0,5,Ahmedabad,Gota,Apartment,Yes,Furnished,7880000
+1759,4,3.0,8,Bengaluru,Electronic City,Apartment,Yes,Semi-furnished,17190000
+1651,3,3.0,16,Ahmedabad,Prahlad Nagar,Villa,Yes,Furnished,13580000
+1008,3,2.0,29,Bengaluru,Indiranagar,Villa,Yes,Unfurnished,11270000
+585,1,1.0,21,Pune,Baner,Apartment,Yes,Semi-furnished,3840000
+2040,5,5.0,20,Hyderabad,Kondapur,Apartment,Yes,Unfurnished,17320000
+1353,3,3.0,17,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,10080000
+1128,3,2.0,34,Chennai,OMR,Apartment,Yes,Furnished,7910000
+801,2,2.0,8,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,6170000
+2193,6,5.0,2,Delhi,Noida Extension,Apartment,No,Unfurnished,24100000
+1356,3,2.0,20,Pune,Hinjewadi,Independent House,Yes,Semi-furnished,11500000
+910,3,3.0,33,Mumbai,Andheri,Independent House,No,Semi-furnished,15630000
+1401,3,3.0,16,Chennai,OMR,Villa,Yes,Unfurnished,10750000
+1147,2,2.0,29,Mumbai,Andheri,Villa,Yes,Semi-furnished,22040000
+1367,3,3.0,30,Ahmedabad,Bopal,Villa,No,Unfurnished,9080000
+1170,2,1.0,24,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,8240000
+1609,5,5.0,26,Bengaluru,Electronic City,Villa,No,Unfurnished,16560000
+907,3,3.0,14,Ahmedabad,Satellite,Independent House,Yes,Semi-furnished,5390000
+498,2,2.0,11,Bengaluru,Whitefield,Apartment,Yes,Unfurnished,3640000
+789,2,2.0,0,Mumbai,Powai,Villa,No,Furnished,15350000
+1438,4,4.0,32,Mumbai,Andheri,Independent House,Yes,Semi-furnished,24950000
+1232,4,4.0,31,Kolkata,New Town,Apartment,Yes,Furnished,6050000
+2408,6,5.0,0,Mumbai,Thane,Apartment,Yes,Semi-furnished,42010000
+1757,4,4.0,14,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,10950000
+1506,4,3.0,23,Delhi,Dwarka,Apartment,Yes,Semi-furnished,13660000
+1257,3,2.0,0,Pune,Baner,Independent House,Yes,Semi-furnished,11180000
+785,2,1.0,0,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,5270000
+1493,4,4.0,19,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,10100000
+1189,3,3.0,35,Bengaluru,Whitefield,Independent House,Yes,Furnished,8510000
+962,3,3.0,14,Pune,Wakad,Villa,No,Semi-furnished,10260000
+571,2,2.0,28,Chennai,OMR,Villa,Yes,Semi-furnished,3730000
+1228,3,3.0,1,Mumbai,Powai,Apartment,No,Semi-furnished,14880000
+972,2,2.0,11,Bengaluru,Sarjapur Road,Apartment,No,Semi-furnished,6900000
+1268,4,4.0,23,Delhi,Rohini,Independent House,Yes,Unfurnished,13240000
+1205,4,4.0,4,Hyderabad,Kondapur,Villa,Yes,Unfurnished,10420000
+1265,3,2.0,35,Hyderabad,Banjara Hills,Apartment,Yes,Furnished,11170000
+1608,5,5.0,25,Chennai,Anna Nagar,Apartment,No,Semi-furnished,11940000
+1674,3,3.0,8,Hyderabad,Banjara Hills,Independent House,Yes,Unfurnished,16430000
+1169,3,3.0,24,Delhi,Dwarka,Apartment,No,Unfurnished,7810000
+2226,5,5.0,10,Pune,Hinjewadi,Apartment,Yes,Semi-furnished,20360000
+1007,3,2.0,28,Chennai,OMR,Villa,Yes,Unfurnished,7210000
+901,1,1.0,8,Chennai,Porur,Apartment,Yes,Furnished,6410000
+1446,4,4.0,16,Hyderabad,Banjara Hills,Villa,No,Unfurnished,15180000
+997,3,3.0,31,Bengaluru,Electronic City,Apartment,No,Unfurnished,7190000
+1331,3,2.0,0,Ahmedabad,Gota,Villa,No,Furnished,12580000
+1599,3,3.0,21,Ahmedabad,Bopal,Independent House,Yes,Semi-furnished,12610000
+576,2,2.0,27,Pune,Wakad,Independent House,Yes,Semi-furnished,5360000
+1347,4,4.0,2,Mumbai,Powai,Apartment,Yes,Semi-furnished,20260000
+2286,4,3.0,13,Delhi,Rohini,Apartment,Yes,Furnished,21420000
+865,2,2.0,4,Hyderabad,Kondapur,Apartment,Yes,Furnished,6300000
+990,3,3.0,12,Mumbai,Thane,Apartment,Yes,Semi-furnished,17280000
+1443,3,3.0,19,Delhi,Rohini,Apartment,Yes,Unfurnished,11700000
+1122,2,2.0,2,Ahmedabad,Gota,Apartment,Yes,Unfurnished,8390000
+1037,4,4.0,2,Chennai,Porur,Independent House,Yes,Unfurnished,7670000
+484,2,2.0,22,Ahmedabad,Satellite,Villa,No,Semi-furnished,2880000
+946,2,2.0,8,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,7330000
+495,2,2.0,10,Bengaluru,Electronic City,Independent House,No,Semi-furnished,4970000
+450,2,2.0,29,Chennai,Velachery,Independent House,Yes,Semi-furnished,3660000
+2592,6,5.0,20,Kolkata,New Town,Apartment,Yes,Furnished,13800000
+2696,6,5.0,10,Mumbai,Andheri,Villa,Yes,Unfurnished,60610000
+1988,5,5.0,23,Delhi,Saket,Villa,Yes,Furnished,26730000
+993,2,1.0,8,Pune,Baner,Villa,Yes,Unfurnished,7320000
+1824,3,3.0,6,Chennai,Porur,Villa,Yes,Semi-furnished,18150000
+1425,2,2.0,2,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,10830000
+1321,3,3.0,35,Pune,Kharadi,Apartment,No,Unfurnished,12080000
+1249,3,2.0,32,Kolkata,Salt Lake,Independent House,Yes,Unfurnished,5990000
+1566,3,2.0,0,Chennai,Velachery,Independent House,Yes,Unfurnished,9750000
+780,4,4.0,5,Delhi,Saket,Villa,Yes,Unfurnished,10670000
+597,1,1.0,31,Pune,Kharadi,Independent House,No,Unfurnished,5800000
+1968,2,1.0,8,Delhi,Dwarka,Apartment,Yes,Semi-furnished,17400000
+1019,2,2.0,0,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,6250000
+1262,3,3.0,28,Mumbai,Thane,Apartment,Yes,Unfurnished,19550000
+1360,3,3.0,33,Hyderabad,Kondapur,Independent House,Yes,Furnished,10750000
+1132,2,2.0,3,Kolkata,Rajarhat,Apartment,Yes,Semi-furnished,6930000
+450,2,2.0,27,Hyderabad,Miyapur,Apartment,Yes,Unfurnished,2950000
+741,2,1.0,11,Bengaluru,Whitefield,Apartment,Yes,Unfurnished,5800000
+1091,2,2.0,7,Kolkata,Behala,Apartment,No,Unfurnished,6970000
+2155,4,4.0,3,Chennai,OMR,Apartment,Yes,Semi-furnished,12630000
+482,3,2.0,23,Ahmedabad,Satellite,Apartment,Yes,Furnished,1980000
+646,3,3.0,10,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,5260000
+2241,5,4.0,2,Delhi,Noida Extension,Villa,Yes,Semi-furnished,29300000
+719,2,2.0,16,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,4340000
+1370,5,4.0,23,Ahmedabad,Gota,Apartment,Yes,Unfurnished,8520000
+1717,4,3.0,34,Kolkata,New Town,Independent House,Yes,Semi-furnished,7790000
+1772,2,1.0,32,Hyderabad,Kondapur,Independent House,Yes,Semi-furnished,12240000
+647,3,3.0,9,Ahmedabad,Satellite,Apartment,Yes,Semi-furnished,3370000
+1538,3,3.0,2,Mumbai,Andheri,Apartment,Yes,Semi-furnished,23020000
+1185,2,2.0,2,Hyderabad,Gachibowli,Villa,Yes,Semi-furnished,9450000
+637,1,1.0,33,Hyderabad,Miyapur,Apartment,Yes,Semi-furnished,4560000
+1702,3,3.0,33,Delhi,Dwarka,Apartment,Yes,Semi-furnished,14940000
+1230,3,2.0,24,Kolkata,Salt Lake,Villa,No,Semi-furnished,7740000
+1478,3,3.0,22,Chennai,OMR,Villa,Yes,Unfurnished,11300000
+1328,4,4.0,21,Delhi,Noida Extension,Apartment,Yes,Unfurnished,13230000
+968,3,3.0,3,Mumbai,Powai,Apartment,Yes,Semi-furnished,13530000
+912,2,2.0,21,Delhi,Dwarka,Apartment,Yes,Semi-furnished,8050000
+1306,4,4.0,32,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,12350000
+1632,5,5.0,17,Kolkata,Rajarhat,Apartment,Yes,Semi-furnished,9190000
+1985,5,,33,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,15460000
+878,2,1.0,33,Mumbai,Thane,Independent House,Yes,Semi-furnished,14570000
+1308,3,2.0,32,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,13220000
+812,2,1.0,14,Mumbai,Andheri,Independent House,Yes,Furnished,14220000
+1857,4,4.0,30,Chennai,OMR,Apartment,Yes,Semi-furnished,11060000
+1755,5,5.0,20,Chennai,OMR,Apartment,Yes,Semi-furnished,12540000
+2662,5,5.0,8,Chennai,Porur,Apartment,Yes,Semi-furnished,17270000
+1951,3,3.0,8,Bengaluru,Whitefield,Apartment,Yes,Unfurnished,14100000
+1496,3,3.0,8,Ahmedabad,Gota,Apartment,Yes,Furnished,10110000
+514,1,1.0,14,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,4380000
+553,1,1.0,25,Ahmedabad,Satellite,Apartment,No,Unfurnished,2770000
+2030,5,5.0,23,Delhi,Noida Extension,Villa,Yes,Semi-furnished,25790000
+1713,5,5.0,33,Mumbai,Thane,Apartment,Yes,Furnished,34300000
+634,1,1.0,25,Bengaluru,Whitefield,Independent House,Yes,Unfurnished,5340000
+1097,5,4.0,6,Chennai,Porur,Independent House,No,Semi-furnished,8450000
+1026,3,3.0,35,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,7610000
+1546,4,3.0,1,Ahmedabad,Gota,Apartment,No,Semi-furnished,11990000
+1318,4,4.0,20,Delhi,Dwarka,Independent House,Yes,Unfurnished,12290000
+2155,6,5.0,18,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,16090000
+1143,4,3.0,29,Delhi,Noida Extension,Apartment,No,Semi-furnished,8030000
+1455,4,4.0,34,Pune,Kharadi,Apartment,Yes,Unfurnished,12310000
+755,2,2.0,17,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,3730000
+450,2,1.0,6,Delhi,Saket,Apartment,Yes,Semi-furnished,5270000
+1517,4,4.0,10,Bengaluru,Electronic City,Independent House,Yes,Furnished,15890000
+1742,3,2.0,27,Bengaluru,Sarjapur Road,Apartment,No,Unfurnished,12010000
+982,5,4.0,21,Ahmedabad,Prahlad Nagar,Apartment,No,Semi-furnished,7140000
+2108,5,5.0,18,Pune,Wakad,Villa,Yes,Furnished,20200000
+695,3,3.0,5,Delhi,Saket,Apartment,Yes,Semi-furnished,6520000
+591,2,2.0,7,Ahmedabad,Gota,Apartment,Yes,Unfurnished,4020000
+1877,4,4.0,6,Ahmedabad,Satellite,Independent House,No,Semi-furnished,10850000
+1210,4,4.0,20,Pune,Baner,Villa,Yes,Semi-furnished,9580000
+1043,2,1.0,28,Bengaluru,Electronic City,Villa,Yes,Semi-furnished,8290000
+2286,4,4.0,4,Chennai,Porur,Apartment,No,Unfurnished,17720000
+1230,3,3.0,30,Hyderabad,Kondapur,Apartment,No,Unfurnished,8190000
+839,2,1.0,2,Chennai,Anna Nagar,Villa,Yes,Semi-furnished,7320000
+2688,5,4.0,29,Mumbai,Powai,Apartment,Yes,Furnished,36670000
+1599,4,4.0,8,Ahmedabad,Satellite,Apartment,Yes,Semi-furnished,9590000
+450,1,1.0,12,Mumbai,Powai,Independent House,Yes,Semi-furnished,6830000
+1135,3,3.0,34,Pune,Wakad,Apartment,No,Unfurnished,8860000
+1706,2,2.0,5,Kolkata,Rajarhat,Apartment,No,Unfurnished,10960000
+981,2,2.0,27,Pune,Baner,Apartment,Yes,Unfurnished,6340000
+913,3,3.0,17,Chennai,Porur,Apartment,Yes,Furnished,5910000
+1996,5,4.0,17,Chennai,Porur,Apartment,Yes,Unfurnished,14370000
+1014,4,3.0,34,Hyderabad,Miyapur,Independent House,No,Furnished,9270000
+1201,4,4.0,35,Chennai,Velachery,Independent House,Yes,Semi-furnished,7990000
+1285,3,3.0,15,Chennai,Velachery,Apartment,Yes,Semi-furnished,10460000
+1207,4,4.0,20,Delhi,Saket,Apartment,Yes,Furnished,12840000
+1023,3,3.0,15,Kolkata,New Town,Villa,No,Unfurnished,6530000
+1497,4,4.0,0,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,13750000
+1169,2,2.0,19,Hyderabad,Banjara Hills,Apartment,Yes,Unfurnished,9190000
+995,3,2.0,21,Kolkata,New Town,Villa,Yes,Semi-furnished,4510000
+1375,4,4.0,9,Chennai,Velachery,Villa,Yes,Unfurnished,11550000
+1190,2,2.0,21,Hyderabad,Miyapur,Independent House,No,Semi-furnished,11690000
+1778,3,3.0,6,Mumbai,Navi Mumbai,Villa,Yes,Unfurnished,41360000
+710,3,3.0,26,Mumbai,Andheri,Independent House,No,Unfurnished,11740000
+1106,3,3.0,8,Chennai,OMR,Apartment,Yes,Unfurnished,7950000
+1624,5,5.0,3,Chennai,Porur,Apartment,Yes,Semi-furnished,11440000
+1172,3,3.0,13,Pune,Baner,Apartment,Yes,Semi-furnished,8390000
+2199,4,3.0,13,Hyderabad,Gachibowli,Independent House,Yes,Furnished,16070000
+983,3,2.0,15,Kolkata,New Town,Apartment,Yes,Semi-furnished,4860000
+531,1,1.0,8,Pune,Baner,Apartment,Yes,Unfurnished,3340000
+1242,2,2.0,27,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,8470000
+1891,6,5.0,23,Chennai,Porur,Apartment,Yes,Furnished,12930000
+695,1,1.0,28,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,4390000
+1490,3,3.0,20,Bengaluru,Sarjapur Road,Apartment,Yes,Semi-furnished,12790000
+982,3,3.0,8,Delhi,Saket,Villa,Yes,Semi-furnished,11570000
+1659,4,4.0,8,Chennai,Anna Nagar,Apartment,Yes,Semi-furnished,12190000
+1045,2,2.0,27,Pune,Kharadi,Apartment,Yes,Unfurnished,8940000
+952,3,2.0,24,Hyderabad,Kondapur,Apartment,Yes,Unfurnished,7370000
+1952,5,5.0,8,Chennai,Velachery,Apartment,Yes,Unfurnished,14690000
+596,1,1.0,31,Pune,Wakad,Villa,No,Unfurnished,4110000
+1685,3,2.0,30,Mumbai,Andheri,Villa,Yes,Unfurnished,36000000
+980,3,2.0,24,Mumbai,Thane,Villa,Yes,Unfurnished,16970000
+889,2,2.0,25,Chennai,OMR,Apartment,Yes,Semi-furnished,5820000
+821,2,1.0,12,Chennai,Anna Nagar,Apartment,Yes,Semi-furnished,6120000
+1170,2,2.0,31,Mumbai,Thane,Apartment,Yes,Semi-furnished,15710000
+924,2,2.0,1,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,7130000
+1163,2,2.0,0,Pune,Kharadi,Apartment,Yes,Unfurnished,11540000
+508,1,1.0,16,Chennai,Anna Nagar,Apartment,Yes,Semi-furnished,3790000
+1940,4,4.0,7,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,20850000
+1544,5,4.0,14,Kolkata,Salt Lake,Villa,Yes,Unfurnished,9940000
+1581,3,2.0,2,Chennai,OMR,Apartment,Yes,Unfurnished,10170000
+1470,2,2.0,27,Bengaluru,Indiranagar,Villa,Yes,Semi-furnished,15510000
+1365,3,3.0,25,Hyderabad,Gachibowli,Apartment,Yes,Unfurnished,10330000
+842,2,2.0,26,Kolkata,Behala,Apartment,Yes,Semi-furnished,4550000
+450,3,3.0,6,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,2330000
+752,1,1.0,25,Ahmedabad,Gota,Apartment,Yes,,4970000
+1970,6,5.0,8,Kolkata,Rajarhat,Apartment,No,Unfurnished,10650000
+450,2,1.0,30,Ahmedabad,Gota,Apartment,Yes,Unfurnished,3170000
+1718,4,3.0,34,Chennai,Velachery,Apartment,Yes,Semi-furnished,11300000
+1759,3,2.0,34,Hyderabad,Miyapur,Apartment,Yes,Semi-furnished,14110000
+1330,3,3.0,12,Ahmedabad,Satellite,Apartment,Yes,Semi-furnished,7530000
+2166,5,4.0,28,Chennai,Anna Nagar,Apartment,No,Unfurnished,13130000
+1651,3,3.0,30,Chennai,Velachery,Apartment,Yes,Unfurnished,10030000
+1105,4,4.0,14,Delhi,Dwarka,Villa,Yes,Semi-furnished,12850000
+1038,2,2.0,31,Hyderabad,Miyapur,Villa,Yes,Unfurnished,8160000
+1141,3,3.0,11,Mumbai,Navi Mumbai,Apartment,No,Semi-furnished,21620000
+1491,4,4.0,13,Kolkata,Behala,Apartment,Yes,Unfurnished,8550000
+1474,5,5.0,11,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,13670000
+450,2,1.0,22,Ahmedabad,Satellite,Apartment,No,Furnished,2350000
+985,3,2.0,6,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,7050000
+1087,2,1.0,21,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,8550000
+1396,2,2.0,12,Mumbai,Thane,Apartment,Yes,Unfurnished,22160000
+1826,5,5.0,0,Hyderabad,Gachibowli,Villa,Yes,Semi-furnished,17770000
+665,3,2.0,4,Pune,Kharadi,Independent House,Yes,Furnished,5460000
+1093,4,4.0,7,Kolkata,Salt Lake,Villa,Yes,Semi-furnished,6140000
+1375,4,4.0,27,Delhi,Rohini,Apartment,Yes,Unfurnished,12160000
+2270,5,5.0,35,Chennai,Porur,Apartment,Yes,Semi-furnished,18540000
+1503,3,3.0,32,Chennai,OMR,Apartment,Yes,Unfurnished,7040000
+1340,4,4.0,15,Bengaluru,Electronic City,Independent House,No,Furnished,13220000
+1283,3,2.0,28,Kolkata,Salt Lake,Apartment,No,Semi-furnished,7280000
+970,2,2.0,29,Pune,Hinjewadi,Apartment,No,Semi-furnished,6450000
+657,3,3.0,8,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,4480000
+1032,3,3.0,5,Kolkata,Rajarhat,Villa,Yes,Unfurnished,7300000
+1355,4,4.0,8,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,8860000
+1782,4,3.0,34,Ahmedabad,Gota,Apartment,Yes,Furnished,11730000
+712,1,1.0,25,Kolkata,Behala,Independent House,Yes,Semi-furnished,4050000
+1370,3,2.0,13,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,11760000
+2039,4,4.0,17,Hyderabad,Kondapur,Villa,Yes,Semi-furnished,18290000
+885,2,1.0,12,Delhi,Rohini,Independent House,No,Unfurnished,7920000
+1252,1,1.0,10,Mumbai,Powai,Apartment,Yes,Unfurnished,15630000
+968,3,3.0,26,Mumbai,Thane,Independent House,Yes,Semi-furnished,17930000
+896,4,4.0,12,Mumbai,Powai,Apartment,Yes,Unfurnished,14410000
+1592,4,4.0,11,Ahmedabad,Gota,Apartment,Yes,Furnished,11230000
+1515,3,3.0,4,Pune,Baner,Apartment,Yes,Unfurnished,10950000
+1153,2,2.0,10,Kolkata,Behala,Apartment,Yes,Unfurnished,6690000
+1204,3,3.0,33,Delhi,Dwarka,Independent House,Yes,Semi-furnished,10090000
+1636,3,3.0,6,Hyderabad,Miyapur,Apartment,Yes,Furnished,14250000
+1546,3,3.0,0,Delhi,Saket,Apartment,Yes,Furnished,20570000
+2379,4,3.0,34,Kolkata,New Town,Apartment,Yes,Semi-furnished,11150000
+2067,3,3.0,2,Hyderabad,Kondapur,Apartment,Yes,Furnished,19230000
+2034,5,5.0,2,Kolkata,New Town,Apartment,Yes,Furnished,10660000
+1172,3,3.0,25,Bengaluru,Sarjapur Road,Independent House,No,Semi-furnished,10780000
+1362,3,3.0,16,Bengaluru,Indiranagar,Villa,Yes,Furnished,16110000
+588,1,1.0,21,Chennai,Porur,Independent House,Yes,Semi-furnished,3970000
+920,2,2.0,16,Kolkata,New Town,Apartment,Yes,Semi-furnished,4590000
+915,2,2.0,32,Hyderabad,Banjara Hills,Villa,Yes,Unfurnished,8030000
+1209,3,2.0,18,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,10940000
+1279,3,3.0,7,Ahmedabad,Bopal,Villa,Yes,Semi-furnished,11520000
+1595,3,3.0,12,Chennai,OMR,Villa,Yes,Furnished,9130000
+989,2,1.0,28,Hyderabad,Banjara Hills,Villa,Yes,Unfurnished,9330000
+837,2,1.0,24,Kolkata,Rajarhat,Apartment,Yes,Semi-furnished,3860000
+1852,4,3.0,33,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,11430000
+1528,6,5.0,7,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,25660000
+1486,5,5.0,1,Kolkata,Behala,Apartment,Yes,Furnished,12720000
+1534,5,4.0,19,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,24930000
+950,1,1.0,34,Mumbai,Thane,Apartment,Yes,Semi-furnished,15170000
+1623,5,5.0,34,Bengaluru,Indiranagar,Villa,Yes,Unfurnished,18950000
+1108,3,3.0,13,Delhi,Dwarka,Apartment,Yes,Unfurnished,10260000
+1188,2,2.0,5,Chennai,Anna Nagar,Villa,Yes,Unfurnished,9370000
+1803,5,5.0,5,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,12610000
+938,2,1.0,33,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,6290000
+1060,4,3.0,13,Hyderabad,Miyapur,Independent House,Yes,Semi-furnished,8880000
+1175,3,3.0,4,Ahmedabad,Bopal,Apartment,Yes,Furnished,7210000
+1928,5,4.0,12,Ahmedabad,Bopal,Villa,Yes,Unfurnished,11450000
+1642,3,3.0,28,Delhi,Noida Extension,Apartment,Yes,Unfurnished,14910000
+1560,3,3.0,4,Mumbai,Thane,Independent House,Yes,Furnished,29120000
+1591,3,3.0,15,Bengaluru,Whitefield,Independent House,Yes,Unfurnished,10600000
+1267,4,4.0,0,Delhi,Saket,Apartment,Yes,Semi-furnished,11050000
+1655,3,2.0,9,Mumbai,Navi Mumbai,Apartment,Yes,Semi-furnished,32580000
+2151,4,3.0,24,Ahmedabad,Bopal,Apartment,No,Semi-furnished,11350000
+975,1,1.0,16,Delhi,Dwarka,Apartment,No,Unfurnished,7810000
+1982,5,4.0,31,Ahmedabad,Satellite,Apartment,No,Furnished,12420000
+1473,3,3.0,22,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,27600000
+1474,3,3.0,2,Kolkata,Salt Lake,Villa,Yes,Semi-furnished,10280000
+1436,3,3.0,24,Kolkata,Rajarhat,Independent House,Yes,Semi-furnished,9460000
+1215,4,4.0,32,Hyderabad,Gachibowli,Villa,Yes,Furnished,10330000
+2064,5,5.0,23,Ahmedabad,Gota,Independent House,Yes,Semi-furnished,14690000
+1825,4,4.0,11,Kolkata,New Town,Apartment,Yes,Unfurnished,10750000
+1855,5,5.0,27,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,16290000
+481,1,1.0,8,Mumbai,Navi Mumbai,Apartment,Yes,Semi-furnished,6810000
+1162,3,2.0,12,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,9470000
+450,3,3.0,28,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,3430000
+1175,2,2.0,21,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,9710000
+782,1,1.0,20,Ahmedabad,Satellite,Apartment,Yes,Unfurnished,4250000
+1061,3,3.0,22,Hyderabad,Miyapur,Apartment,No,Furnished,6940000
+1074,2,2.0,4,Kolkata,Salt Lake,Apartment,No,Semi-furnished,6430000
+1982,5,4.0,10,Delhi,Noida Extension,Villa,Yes,Semi-furnished,33070000
+1708,5,4.0,2,Mumbai,Andheri,Apartment,Yes,Semi-furnished,29410000
+757,1,1.0,30,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,4190000
+1805,5,4.0,27,Delhi,Dwarka,Apartment,Yes,Unfurnished,12150000
+460,3,2.0,23,Delhi,Saket,Apartment,Yes,Unfurnished,4420000
+1486,2,2.0,31,Ahmedabad,Satellite,Apartment,Yes,Unfurnished,8490000
+1280,4,3.0,28,Chennai,Velachery,Apartment,Yes,Semi-furnished,9630000
+1045,3,3.0,19,Chennai,Anna Nagar,Villa,Yes,Semi-furnished,10790000
+1381,4,4.0,19,Delhi,Rohini,Apartment,Yes,Furnished,11030000
+1764,3,3.0,24,Ahmedabad,Satellite,Independent House,Yes,Furnished,8610000
+1563,3,3.0,8,Kolkata,New Town,Apartment,Yes,Unfurnished,7070000
+2234,5,4.0,1,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,11030000
+1669,4,4.0,23,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,11640000
+450,1,1.0,1,Mumbai,Andheri,Apartment,Yes,Unfurnished,7050000
+583,2,2.0,26,Pune,Kharadi,Independent House,No,Semi-furnished,4050000
+870,2,1.0,21,Kolkata,Rajarhat,Independent House,Yes,Unfurnished,4400000
+646,2,1.0,25,Kolkata,Rajarhat,Villa,No,Unfurnished,4260000
+1344,4,4.0,0,Mumbai,Andheri,Apartment,Yes,Semi-furnished,25860000
+1610,4,3.0,33,Kolkata,Salt Lake,Independent House,Yes,Semi-furnished,8770000
+2159,4,3.0,30,Delhi,Noida Extension,Apartment,No,Unfurnished,19330000
+1717,4,4.0,17,Mumbai,Andheri,Apartment,Yes,Unfurnished,35260000
+851,3,2.0,33,Delhi,Saket,Apartment,Yes,Semi-furnished,7130000
+1687,4,4.0,29,Mumbai,Thane,Apartment,Yes,Semi-furnished,29840000
+2153,5,4.0,5,Chennai,Velachery,Apartment,Yes,Semi-furnished,15960000
+1789,3,3.0,35,Mumbai,Navi Mumbai,Villa,Yes,Semi-furnished,33500000
+2051,4,4.0,1,Delhi,Noida Extension,Apartment,No,Semi-furnished,23720000
+940,2,2.0,25,Mumbai,Powai,Apartment,Yes,Semi-furnished,11580000
+1335,4,4.0,9,Kolkata,New Town,Villa,Yes,Unfurnished,9770000
+475,2,1.0,5,Ahmedabad,Bopal,Independent House,Yes,Semi-furnished,3260000
+1610,3,3.0,9,Chennai,OMR,Apartment,Yes,Furnished,11030000
+1542,4,4.0,28,Pune,Baner,Apartment,Yes,Semi-furnished,11480000
+1718,4,4.0,7,Mumbai,Andheri,Apartment,Yes,Unfurnished,20850000
+1232,4,3.0,13,Chennai,Velachery,Independent House,Yes,Furnished,9900000
+1128,2,1.0,18,Kolkata,Rajarhat,Villa,Yes,Unfurnished,7050000
+1824,4,4.0,18,Ahmedabad,Gota,Independent House,Yes,Unfurnished,13140000
+958,4,4.0,5,Pune,Baner,Apartment,Yes,Unfurnished,6900000
+1567,3,3.0,26,Ahmedabad,Satellite,Apartment,Yes,Semi-furnished,8140000
+450,1,1.0,5,Pune,Wakad,Apartment,Yes,Unfurnished,3500000
+1705,5,5.0,23,Mumbai,Powai,Apartment,Yes,Unfurnished,23900000
+1822,4,3.0,5,Delhi,Saket,Apartment,Yes,Furnished,19030000
+1121,3,2.0,13,Ahmedabad,Bopal,Apartment,Yes,Furnished,6130000
+999,3,3.0,9,Ahmedabad,Prahlad Nagar,Apartment,Yes,Furnished,5620000
+905,3,3.0,9,Delhi,Saket,Apartment,Yes,Furnished,8930000
+1391,4,3.0,2,Ahmedabad,Prahlad Nagar,Villa,Yes,Furnished,14320000
+948,2,2.0,5,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,6180000
+2047,4,4.0,27,Chennai,Porur,Apartment,Yes,Furnished,14650000
+2005,3,3.0,0,Hyderabad,Gachibowli,Apartment,No,Unfurnished,13380000
+820,2,1.0,35,Kolkata,Salt Lake,Apartment,No,Semi-furnished,3930000
+2347,4,4.0,34,Pune,Hinjewadi,Apartment,No,Semi-furnished,17200000
+1948,2,2.0,13,Bengaluru,Whitefield,Independent House,Yes,Semi-furnished,17560000
+450,2,1.0,30,Pune,Kharadi,Villa,Yes,Semi-furnished,4520000
+1211,2,2.0,24,Chennai,Velachery,Independent House,Yes,Semi-furnished,8730000
+1529,4,4.0,4,Hyderabad,Kondapur,Villa,Yes,Unfurnished,14810000
+572,1,1.0,12,Ahmedabad,Bopal,Villa,Yes,Furnished,4240000
+1507,4,3.0,9,Hyderabad,Banjara Hills,Apartment,Yes,Furnished,14950000
+1434,4,4.0,34,Pune,Baner,Apartment,Yes,Furnished,9680000
+1801,6,5.0,34,Hyderabad,Banjara Hills,Apartment,No,Semi-furnished,13180000
+450,1,1.0,14,Mumbai,Navi Mumbai,Apartment,No,Unfurnished,8230000
+1729,5,5.0,26,Hyderabad,Kondapur,Independent House,Yes,Unfurnished,10490000
+1477,6,5.0,11,Chennai,OMR,Apartment,No,Unfurnished,8690000
+757,3,3.0,11,Pune,Wakad,Apartment,No,Semi-furnished,5660000
+1815,4,4.0,24,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,13890000
+2313,5,5.0,11,Hyderabad,Banjara Hills,Independent House,Yes,Unfurnished,17970000
+1992,4,4.0,3,Ahmedabad,Prahlad Nagar,Villa,Yes,Semi-furnished,18250000
+2306,4,4.0,30,Hyderabad,Banjara Hills,Villa,No,Unfurnished,20350000
+561,1,1.0,34,Delhi,Rohini,Apartment,Yes,Unfurnished,4290000
+1642,4,4.0,4,Pune,Baner,Apartment,Yes,Unfurnished,10860000
+1143,2,2.0,27,Kolkata,Salt Lake,Independent House,Yes,Semi-furnished,6780000
+1311,2,2.0,33,Chennai,Anna Nagar,Apartment,Yes,Semi-furnished,10410000
+1422,5,5.0,31,Kolkata,Rajarhat,Villa,No,Unfurnished,8560000
+1362,3,3.0,23,Delhi,Rohini,Apartment,Yes,Furnished,12160000
+1078,3,3.0,5,Mumbai,Navi Mumbai,Apartment,Yes,Furnished,22750000
+1638,4,3.0,16,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,13970000
+830,3,3.0,12,Delhi,Saket,Apartment,Yes,Semi-furnished,7820000
+667,2,2.0,5,Chennai,OMR,Apartment,Yes,Semi-furnished,4480000
+450,3,3.0,17,Kolkata,Behala,Apartment,Yes,Semi-furnished,2860000
+1447,5,5.0,27,Hyderabad,Banjara Hills,Apartment,Yes,Unfurnished,10900000
+1872,4,4.0,6,Hyderabad,Miyapur,Independent House,Yes,Semi-furnished,15450000
+1938,5,4.0,14,Kolkata,Rajarhat,Independent House,No,Semi-furnished,11430000
+1157,3,3.0,34,Mumbai,Andheri,Apartment,Yes,Semi-furnished,18380000
+1275,3,2.0,0,Chennai,OMR,Apartment,Yes,Furnished,7470000
+1689,4,4.0,4,Kolkata,Rajarhat,Apartment,Yes,Furnished,10740000
+945,2,2.0,28,Delhi,Saket,Apartment,Yes,Furnished,10140000
+1405,3,3.0,15,Bengaluru,Sarjapur Road,Villa,Yes,Unfurnished,14280000
+1193,5,4.0,15,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,8080000
+2096,4,4.0,8,Mumbai,Powai,Apartment,Yes,Semi-furnished,23500000
+1307,2,2.0,31,Kolkata,New Town,Apartment,Yes,Unfurnished,6230000
+1360,2,2.0,15,Hyderabad,Miyapur,Apartment,No,Semi-furnished,10630000
+623,4,3.0,16,Pune,Kharadi,Apartment,Yes,Semi-furnished,5180000
+1428,4,4.0,29,Chennai,OMR,Apartment,Yes,Semi-furnished,10490000
+1851,5,4.0,5,Chennai,Velachery,Apartment,Yes,Furnished,12960000
+1968,4,3.0,28,Pune,Kharadi,Apartment,Yes,Semi-furnished,19120000
+1159,4,3.0,35,Mumbai,Powai,Apartment,Yes,Semi-furnished,18490000
+1313,4,3.0,29,Mumbai,Navi Mumbai,Villa,No,Semi-furnished,26900000
+1916,5,5.0,22,Kolkata,Rajarhat,Villa,Yes,Semi-furnished,10360000
+1102,1,,0,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,9640000
+1398,3,3.0,26,Ahmedabad,Gota,Villa,Yes,Unfurnished,9630000
+1665,4,4.0,29,Chennai,Velachery,Apartment,No,Semi-furnished,9690000
+1460,4,4.0,1,Mumbai,Andheri,Independent House,Yes,Semi-furnished,27660000
+1451,2,1.0,22,Ahmedabad,Prahlad Nagar,Apartment,Yes,Furnished,9450000
+1002,2,1.0,1,Kolkata,Salt Lake,Independent House,Yes,Semi-furnished,6380000
+1133,3,2.0,0,Kolkata,Behala,Villa,Yes,Unfurnished,7100000
+1284,3,3.0,28,Kolkata,Behala,Apartment,Yes,Unfurnished,6010000
+754,2,1.0,7,Pune,Hinjewadi,Apartment,No,Semi-furnished,6680000
+1191,4,4.0,7,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,6460000
+450,1,1.0,21,Pune,Hinjewadi,Villa,Yes,Furnished,4610000
+1518,5,5.0,0,Chennai,Porur,Apartment,Yes,Furnished,11630000
+733,1,1.0,10,Ahmedabad,Bopal,Villa,Yes,Unfurnished,5950000
+1238,3,3.0,22,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,10300000
+1492,4,3.0,14,Chennai,Anna Nagar,Apartment,Yes,Unfurnished,9880000
+1604,4,4.0,6,Kolkata,Behala,Apartment,Yes,Furnished,8860000
+1279,3,2.0,17,Delhi,Dwarka,Independent House,Yes,Unfurnished,12700000
+1179,2,2.0,14,Mumbai,Thane,Villa,Yes,Unfurnished,23880000
+1978,4,3.0,33,Mumbai,Navi Mumbai,Apartment,Yes,Semi-furnished,27670000
+733,3,3.0,3,Ahmedabad,Bopal,Independent House,Yes,Semi-furnished,4910000
+1761,5,5.0,10,Delhi,Rohini,Independent House,Yes,Furnished,20960000
+2129,6,5.0,7,Mumbai,Powai,Apartment,Yes,Unfurnished,38910000
+1153,2,2.0,1,Ahmedabad,Satellite,Apartment,Yes,Unfurnished,5270000
+1887,5,4.0,3,Hyderabad,Miyapur,Villa,Yes,Semi-furnished,12650000
+632,3,3.0,8,Delhi,Saket,Apartment,Yes,Semi-furnished,6370000
+1427,3,3.0,3,Hyderabad,Banjara Hills,Apartment,No,Semi-furnished,11160000
+991,3,3.0,14,Mumbai,Andheri,Apartment,Yes,Unfurnished,18770000
+954,3,2.0,35,Pune,Hinjewadi,Apartment,No,Unfurnished,6610000
+1836,5,5.0,10,Ahmedabad,Prahlad Nagar,Villa,Yes,Semi-furnished,17380000
+1416,4,4.0,0,Kolkata,Behala,Apartment,No,Semi-furnished,9490000
+700,2,2.0,6,Chennai,Velachery,Apartment,No,Unfurnished,4420000
+450,2,1.0,7,Hyderabad,Gachibowli,Villa,No,Unfurnished,4580000
+1055,3,2.0,12,Chennai,Porur,Independent House,Yes,Furnished,8110000
+1814,5,5.0,20,Hyderabad,Kondapur,Apartment,Yes,Unfurnished,12980000
+1824,4,4.0,20,Ahmedabad,Prahlad Nagar,Villa,No,Semi-furnished,12450000
+2133,5,5.0,17,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,22450000
+1165,3,3.0,23,Delhi,Saket,Villa,Yes,Semi-furnished,14850000
+770,1,1.0,3,Pune,Kharadi,Apartment,No,Semi-furnished,6400000
+900,1,1.0,10,Delhi,Noida Extension,Apartment,Yes,Furnished,9760000
+1553,4,3.0,14,Chennai,Porur,Apartment,Yes,Semi-furnished,11340000
+1451,4,3.0,13,Mumbai,Powai,Apartment,Yes,Furnished,20290000
+655,1,1.0,5,Hyderabad,Miyapur,Apartment,Yes,Semi-furnished,5410000
+804,2,1.0,13,Ahmedabad,Gota,Apartment,Yes,Unfurnished,5320000
+1204,3,2.0,18,Bengaluru,Indiranagar,Villa,Yes,Semi-furnished,15290000
+1497,4,3.0,25,Ahmedabad,Bopal,Apartment,Yes,Furnished,9520000
+1270,4,3.0,8,Hyderabad,Gachibowli,Villa,Yes,Unfurnished,9740000
+1323,5,4.0,18,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,11200000
+468,2,2.0,7,Delhi,Rohini,Villa,Yes,Unfurnished,5140000
+1143,3,3.0,13,Mumbai,Navi Mumbai,Apartment,No,Semi-furnished,21160000
+635,3,3.0,32,Bengaluru,Electronic City,Apartment,No,Unfurnished,4340000
+1389,3,3.0,7,Bengaluru,Sarjapur Road,Apartment,Yes,Semi-furnished,11740000
+1304,4,3.0,29,Kolkata,Behala,Apartment,Yes,Unfurnished,8410000
+2154,5,5.0,12,Bengaluru,Whitefield,Independent House,No,Semi-furnished,18630000
+1097,3,3.0,27,Kolkata,Rajarhat,Apartment,Yes,Semi-furnished,6230000
+1001,2,2.0,9,Kolkata,Rajarhat,Independent House,Yes,Unfurnished,7330000
+1131,3,3.0,33,Delhi,Noida Extension,Villa,Yes,Semi-furnished,17270000
+1532,3,,2,Pune,Hinjewadi,Apartment,Yes,Semi-furnished,13810000
+1443,4,4.0,7,Hyderabad,Miyapur,Villa,Yes,Semi-furnished,14160000
+953,4,3.0,8,Bengaluru,Electronic City,Independent House,No,Semi-furnished,8840000
+751,2,2.0,18,Mumbai,Thane,Apartment,Yes,Semi-furnished,10890000
+1292,3,3.0,28,Ahmedabad,Gota,Independent House,Yes,Unfurnished,9630000
+1486,2,1.0,35,Delhi,Rohini,Apartment,Yes,Semi-furnished,11560000
+1172,3,3.0,6,Mumbai,Navi Mumbai,Independent House,No,Furnished,22350000
+1593,4,3.0,6,Hyderabad,Banjara Hills,Independent House,Yes,Semi-furnished,13710000
+2038,4,4.0,15,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,13370000
+1124,2,1.0,4,Hyderabad,Gachibowli,Villa,No,Semi-furnished,10450000
+450,2,1.0,0,Chennai,Porur,Apartment,Yes,Semi-furnished,2820000
+1687,5,5.0,16,Kolkata,New Town,Apartment,Yes,Furnished,10410000
+1133,3,2.0,2,Bengaluru,Sarjapur Road,Independent House,Yes,Unfurnished,10310000
+1755,4,3.0,28,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,6800000
+1289,2,1.0,5,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,9190000
+1012,4,4.0,30,Pune,Wakad,Independent House,Yes,Unfurnished,7960000
+1413,2,2.0,0,Bengaluru,Sarjapur Road,Apartment,Yes,Semi-furnished,10330000
+716,2,1.0,21,Mumbai,Navi Mumbai,Apartment,Yes,Semi-furnished,15680000
+1169,3,3.0,13,Mumbai,Navi Mumbai,Independent House,Yes,Furnished,22510000
+661,2,2.0,12,Kolkata,Salt Lake,Apartment,No,Furnished,3180000
+1314,3,3.0,11,Bengaluru,Indiranagar,Villa,Yes,Semi-furnished,15310000
+1167,3,3.0,18,Pune,Hinjewadi,Independent House,No,Unfurnished,10230000
+1419,4,3.0,33,Kolkata,Rajarhat,Apartment,Yes,Furnished,7890000
+950,2,2.0,34,Kolkata,Behala,Independent House,Yes,Semi-furnished,5920000
+450,1,1.0,11,Pune,Hinjewadi,Independent House,No,Unfurnished,4700000
+1353,4,3.0,26,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,7990000
+1515,4,3.0,31,Hyderabad,Gachibowli,Apartment,Yes,Semi-furnished,10530000
+1492,4,4.0,31,Kolkata,Salt Lake,Villa,No,Unfurnished,9540000
+2111,3,2.0,2,Pune,Kharadi,Independent House,No,Unfurnished,15640000
+1492,6,5.0,2,Ahmedabad,Bopal,Apartment,No,Unfurnished,8530000
+1724,3,3.0,24,Pune,Hinjewadi,Apartment,Yes,Semi-furnished,13440000
+1683,3,3.0,33,Hyderabad,Banjara Hills,Apartment,Yes,Unfurnished,12080000
+1773,6,5.0,15,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,15360000
+527,1,1.0,35,Chennai,Porur,Apartment,Yes,Semi-furnished,3690000
+931,1,1.0,18,Mumbai,Andheri,Independent House,No,Unfurnished,18670000
+1613,5,5.0,28,Delhi,Rohini,Apartment,No,Unfurnished,10690000
+1995,4,4.0,21,Delhi,Dwarka,Apartment,Yes,Unfurnished,12450000
+1665,4,4.0,26,Pune,Hinjewadi,Villa,Yes,Semi-furnished,16700000
+638,1,1.0,25,Chennai,Anna Nagar,Apartment,Yes,Furnished,3960000
+1439,4,3.0,9,Ahmedabad,Prahlad Nagar,Apartment,No,Semi-furnished,7400000
+450,1,1.0,11,Ahmedabad,Prahlad Nagar,Apartment,No,Unfurnished,2150000
+1597,3,3.0,21,Kolkata,New Town,Apartment,Yes,Unfurnished,9120000
+1356,3,2.0,17,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,11840000
+1088,4,4.0,17,Delhi,Dwarka,Apartment,Yes,Furnished,8860000
+1206,2,1.0,11,Hyderabad,Banjara Hills,Villa,Yes,Semi-furnished,12010000
+1473,3,3.0,14,Kolkata,Rajarhat,Independent House,Yes,Semi-furnished,9020000
+1008,1,1.0,9,Mumbai,Powai,Apartment,Yes,Semi-furnished,12980000
+1516,4,4.0,17,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,12160000
+601,2,2.0,16,Kolkata,Behala,Villa,Yes,Semi-furnished,3950000
+1002,2,2.0,3,Mumbai,Thane,Apartment,No,Semi-furnished,19080000
+861,3,3.0,4,Mumbai,Thane,Independent House,No,Semi-furnished,16350000
+2251,4,4.0,13,Mumbai,Andheri,Apartment,No,Unfurnished,37650000
+1581,2,2.0,11,Bengaluru,Sarjapur Road,Independent House,Yes,Unfurnished,13070000
+828,2,1.0,25,Bengaluru,Indiranagar,Apartment,No,Semi-furnished,7240000
+1384,2,2.0,17,Bengaluru,Indiranagar,Apartment,Yes,Furnished,12480000
+1137,2,1.0,1,Delhi,Dwarka,Apartment,Yes,Semi-furnished,9080000
+879,4,4.0,31,Chennai,Porur,Apartment,No,Furnished,5330000
+1754,4,4.0,17,Mumbai,Andheri,Apartment,Yes,Unfurnished,33640000
+2212,4,,33,Chennai,OMR,Independent House,Yes,Furnished,14650000
+1069,4,4.0,21,Pune,Baner,Independent House,Yes,Unfurnished,6470000
+1541,4,4.0,30,Kolkata,Rajarhat,Apartment,Yes,Furnished,8990000
+1170,3,3.0,14,Bengaluru,Indiranagar,Apartment,No,Unfurnished,11680000
+1456,3,2.0,14,Chennai,Porur,Apartment,Yes,Furnished,10400000
+1193,3,2.0,20,Ahmedabad,Satellite,Apartment,No,Unfurnished,6310000
+627,3,3.0,31,Bengaluru,Indiranagar,Villa,Yes,Semi-furnished,6170000
+775,3,3.0,4,Ahmedabad,Gota,Villa,Yes,Furnished,5670000
+450,1,1.0,6,Pune,Hinjewadi,Villa,Yes,Semi-furnished,4220000
+1424,3,3.0,18,Pune,Hinjewadi,Apartment,Yes,Semi-furnished,9480000
+1591,3,3.0,3,Hyderabad,Gachibowli,Villa,Yes,Semi-furnished,14110000
+1525,3,3.0,30,Pune,Hinjewadi,Apartment,Yes,Semi-furnished,9900000
+450,1,1.0,3,Mumbai,Andheri,Independent House,Yes,Semi-furnished,9950000
+1231,3,3.0,34,Pune,Hinjewadi,Villa,Yes,Unfurnished,10660000
+518,2,2.0,16,Delhi,Rohini,Apartment,Yes,Semi-furnished,4510000
+1344,2,2.0,0,Hyderabad,Kondapur,Apartment,Yes,Unfurnished,6550000
+1567,3,2.0,8,Chennai,Anna Nagar,Apartment,Yes,Semi-furnished,11280000
+1022,2,1.0,31,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,6600000
+1189,3,3.0,35,Delhi,Rohini,Apartment,Yes,Furnished,9750000
+1395,3,2.0,34,Ahmedabad,Gota,Apartment,Yes,,9250000
+2330,6,5.0,22,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,21310000
+737,2,2.0,3,Bengaluru,Sarjapur Road,Independent House,Yes,Semi-furnished,7530000
+1450,4,4.0,10,Bengaluru,Whitefield,Apartment,Yes,Unfurnished,11330000
+1548,3,3.0,6,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,9790000
+1882,4,4.0,23,Bengaluru,Indiranagar,Independent House,No,Unfurnished,13450000
+1524,5,4.0,28,Kolkata,Behala,Independent House,No,Unfurnished,11170000
+2162,6,5.0,17,Ahmedabad,Prahlad Nagar,Apartment,Yes,Furnished,12300000
+1438,4,3.0,33,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,8660000
+1096,3,2.0,0,Pune,Wakad,Apartment,No,Unfurnished,7850000
+1665,4,4.0,14,Chennai,Velachery,Apartment,Yes,Semi-furnished,8190000
+991,2,1.0,15,Chennai,OMR,Apartment,Yes,Semi-furnished,5270000
+773,2,2.0,15,Bengaluru,Sarjapur Road,Independent House,No,Semi-furnished,8000000
+949,2,2.0,4,Delhi,Saket,Apartment,No,Semi-furnished,7680000
+1286,2,2.0,8,Bengaluru,Sarjapur Road,Villa,Yes,Semi-furnished,12740000
+2132,5,4.0,0,Hyderabad,Banjara Hills,Apartment,Yes,Unfurnished,19050000
+1520,5,5.0,5,Pune,Wakad,Apartment,Yes,Unfurnished,11590000
+2197,4,4.0,28,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,18770000
+1461,3,3.0,22,Ahmedabad,Gota,Apartment,Yes,Unfurnished,9830000
+1009,3,3.0,3,Ahmedabad,Gota,Apartment,Yes,Unfurnished,7060000
+1420,3,3.0,26,Kolkata,Salt Lake,Villa,Yes,Semi-furnished,9530000
+1412,3,2.0,19,Hyderabad,Banjara Hills,Apartment,Yes,Furnished,10670000
+1635,4,4.0,28,Mumbai,Thane,Apartment,No,Furnished,22180000
+1780,5,5.0,29,Bengaluru,Electronic City,Apartment,Yes,Semi-furnished,16000000
+1349,2,2.0,21,Kolkata,New Town,Apartment,Yes,Semi-furnished,6600000
+521,3,2.0,34,Bengaluru,Whitefield,Independent House,Yes,Semi-furnished,4340000
+2177,6,5.0,28,Pune,Wakad,Apartment,No,Semi-furnished,17200000
+1895,4,3.0,20,Kolkata,Behala,Apartment,Yes,Unfurnished,11700000
+1576,3,3.0,7,Pune,Wakad,Villa,No,Unfurnished,13900000
+2179,4,3.0,15,Pune,Wakad,Villa,Yes,Semi-furnished,20440000
+1458,4,4.0,11,Bengaluru,Indiranagar,Apartment,No,Semi-furnished,14600000
+890,3,3.0,30,Kolkata,Behala,Apartment,Yes,Unfurnished,5710000
+705,2,1.0,25,Pune,Baner,Apartment,No,Unfurnished,4670000
+1668,3,3.0,8,Pune,Kharadi,Apartment,Yes,Semi-furnished,13430000
+1060,3,2.0,17,Pune,Baner,Apartment,Yes,Unfurnished,8450000
+709,2,2.0,11,Delhi,Saket,Apartment,Yes,Semi-furnished,6220000
+2084,6,5.0,10,Pune,Hinjewadi,Independent House,Yes,Unfurnished,16110000
+1216,3,3.0,2,Pune,Wakad,Villa,Yes,Furnished,14380000
+1878,4,4.0,26,Delhi,Noida Extension,Apartment,No,Semi-furnished,17730000
+1049,3,2.0,7,Kolkata,Behala,Villa,Yes,Furnished,9060000
+1815,5,5.0,21,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,13220000
+1676,4,3.0,8,Ahmedabad,Bopal,Apartment,Yes,Unfurnished,9160000
+956,2,2.0,4,Ahmedabad,Prahlad Nagar,Villa,No,Semi-furnished,6330000
+825,1,1.0,21,Mumbai,Powai,Independent House,No,Semi-furnished,13210000
+1342,2,2.0,31,Hyderabad,Banjara Hills,Apartment,Yes,Unfurnished,10080000
+2092,5,5.0,5,Pune,Wakad,Apartment,Yes,Furnished,16630000
+1285,3,3.0,7,Chennai,Anna Nagar,Independent House,Yes,Semi-furnished,9390000
+2169,5,5.0,21,Hyderabad,Banjara Hills,Apartment,Yes,Unfurnished,14210000
+1920,4,3.0,30,Delhi,Rohini,Apartment,No,,16800000
+1466,4,,22,Mumbai,Navi Mumbai,Apartment,No,Semi-furnished,25590000
+1020,3,3.0,28,Mumbai,Thane,Apartment,Yes,Unfurnished,19240000
+1125,2,1.0,15,Hyderabad,Kondapur,Independent House,Yes,Unfurnished,7830000
+968,3,2.0,2,Kolkata,New Town,Independent House,No,Unfurnished,5380000
+948,2,1.0,13,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,9130000
+1791,4,4.0,5,Ahmedabad,Bopal,Villa,Yes,Unfurnished,11190000
+1937,4,4.0,24,Pune,Hinjewadi,Independent House,Yes,Semi-furnished,17220000
+1184,2,2.0,15,Delhi,Saket,Apartment,Yes,Semi-furnished,10300000
+2098,5,4.0,35,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,15000000
+1159,2,2.0,33,Mumbai,Navi Mumbai,Villa,Yes,Semi-furnished,21960000
+504,3,3.0,25,Kolkata,New Town,Apartment,Yes,Semi-furnished,2580000
+450,1,1.0,0,Chennai,Porur,Villa,Yes,Unfurnished,4170000
+1532,3,3.0,6,Hyderabad,Kondapur,Apartment,No,Unfurnished,8810000
+1116,2,2.0,30,Hyderabad,Miyapur,Apartment,Yes,Unfurnished,7280000
+778,1,1.0,9,Bengaluru,Electronic City,Apartment,Yes,Semi-furnished,7260000
+2461,5,5.0,2,Pune,Baner,Apartment,Yes,Unfurnished,17530000
+1452,2,2.0,23,Bengaluru,Electronic City,Apartment,Yes,Semi-furnished,13870000
+2520,6,5.0,20,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,15110000
+2087,4,3.0,1,Pune,Wakad,Apartment,Yes,Furnished,20010000
+703,4,4.0,23,Bengaluru,Whitefield,Apartment,Yes,Unfurnished,5880000
+1583,3,3.0,1,Mumbai,Navi Mumbai,Apartment,Yes,Semi-furnished,28750000
+1396,3,2.0,24,Pune,Hinjewadi,Independent House,Yes,Semi-furnished,14490000
+776,3,2.0,16,Chennai,Porur,Apartment,Yes,Unfurnished,5420000
+1684,4,4.0,14,Ahmedabad,Satellite,Apartment,Yes,Semi-furnished,8830000
+1162,3,2.0,31,Pune,Hinjewadi,Apartment,Yes,Furnished,8780000
+870,3,2.0,22,Mumbai,Navi Mumbai,Apartment,Yes,Semi-furnished,13280000
+1844,3,3.0,30,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,15870000
+1502,2,2.0,9,Kolkata,Behala,Apartment,Yes,Unfurnished,8540000
+1348,4,4.0,30,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,11550000
+1133,3,3.0,19,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,12870000
+450,1,1.0,20,Kolkata,Behala,Apartment,Yes,Furnished,3140000
+450,3,3.0,24,Hyderabad,Kondapur,Independent House,Yes,Semi-furnished,2880000
+959,3,2.0,25,Pune,Wakad,Apartment,Yes,Furnished,7280000
+1131,3,2.0,22,Hyderabad,Gachibowli,Villa,Yes,Unfurnished,8360000
+1543,4,4.0,33,Kolkata,New Town,Apartment,Yes,Furnished,10230000
+1394,3,3.0,14,Delhi,Dwarka,Apartment,Yes,Semi-furnished,13220000
+864,2,2.0,3,Pune,Baner,Apartment,Yes,Semi-furnished,5330000
+1360,2,2.0,20,Kolkata,Behala,Apartment,No,Unfurnished,6090000
+1334,3,2.0,33,Chennai,Anna Nagar,Apartment,Yes,Furnished,11940000
+1867,5,5.0,8,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,11500000
+707,3,3.0,35,Delhi,Saket,Independent House,No,Furnished,6860000
+2028,5,5.0,14,Delhi,Noida Extension,Apartment,Yes,Furnished,21510000
+1538,3,3.0,34,Mumbai,Andheri,Apartment,Yes,Furnished,26830000
+2675,6,5.0,28,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,26330000
+1504,4,4.0,5,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,10190000
+1125,2,2.0,4,Delhi,Rohini,Apartment,No,Semi-furnished,11730000
+2082,4,4.0,22,Mumbai,Thane,Apartment,Yes,Semi-furnished,30710000
+1433,4,3.0,12,Delhi,Noida Extension,Apartment,Yes,Unfurnished,13380000
+1977,6,5.0,21,Ahmedabad,Gota,Independent House,Yes,Furnished,12990000
+2059,5,5.0,20,Pune,Kharadi,Apartment,Yes,Semi-furnished,18480000
+1544,3,2.0,7,Pune,Baner,Villa,Yes,Unfurnished,11380000
+2167,5,5.0,30,Chennai,Porur,Independent House,Yes,Unfurnished,19800000
+2186,5,5.0,22,Pune,Hinjewadi,Villa,Yes,Semi-furnished,21190000
+1445,4,3.0,7,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,8880000
+2144,6,5.0,26,Hyderabad,Miyapur,Apartment,Yes,Furnished,15130000
+624,1,1.0,29,Chennai,Velachery,Apartment,Yes,Semi-furnished,4830000
+1778,4,3.0,15,Delhi,Dwarka,Apartment,No,Furnished,13230000
+1500,2,2.0,34,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,9210000
+1418,4,4.0,31,Chennai,Anna Nagar,Apartment,Yes,Unfurnished,11180000
+1872,4,3.0,11,Kolkata,Salt Lake,Villa,Yes,Unfurnished,13660000
+1267,3,2.0,21,Kolkata,Behala,Villa,Yes,Furnished,7740000
+810,2,2.0,33,Kolkata,Salt Lake,Apartment,Yes,Furnished,3900000
+654,1,1.0,27,Hyderabad,Miyapur,Apartment,Yes,Semi-furnished,5310000
+840,3,3.0,16,Delhi,Rohini,Apartment,Yes,Semi-furnished,9080000
+2252,6,5.0,3,Mumbai,Andheri,Apartment,No,Unfurnished,34280000
+1227,3,3.0,19,Kolkata,Behala,Apartment,Yes,Semi-furnished,7160000
+2489,6,5.0,11,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,18540000
+1172,5,4.0,20,Pune,Baner,Apartment,No,Semi-furnished,7740000
+1309,2,1.0,29,Hyderabad,Gachibowli,Apartment,Yes,Unfurnished,7530000
+1092,3,3.0,28,Hyderabad,Kondapur,Apartment,No,Unfurnished,5170000
+515,2,2.0,23,Hyderabad,Banjara Hills,Independent House,Yes,Semi-furnished,3990000
+1007,3,3.0,27,Delhi,Dwarka,Apartment,Yes,Unfurnished,6840000
+1190,3,3.0,10,Delhi,Dwarka,Villa,Yes,Semi-furnished,12430000
+1867,4,4.0,12,Delhi,Saket,Apartment,Yes,Unfurnished,15320000
+1485,3,,5,Mumbai,Andheri,Apartment,Yes,Semi-furnished,23540000
+992,2,2.0,11,Pune,Wakad,Apartment,No,Unfurnished,6200000
+1021,2,2.0,12,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,5140000
+1168,4,4.0,16,Ahmedabad,Satellite,Apartment,Yes,Furnished,5960000
+2492,6,5.0,14,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,18820000
+1814,4,4.0,13,Delhi,Rohini,Independent House,Yes,Semi-furnished,16790000
+545,1,1.0,30,Delhi,Saket,Apartment,No,Furnished,3560000
+947,3,2.0,0,Chennai,OMR,Apartment,Yes,Unfurnished,5550000
+1779,4,4.0,9,Chennai,Anna Nagar,Villa,Yes,Unfurnished,13170000
+945,2,2.0,5,Bengaluru,Sarjapur Road,Independent House,No,Furnished,9180000
+450,1,1.0,18,Delhi,Noida Extension,Apartment,Yes,Unfurnished,4430000
+534,2,2.0,0,Mumbai,Thane,Apartment,Yes,Unfurnished,7600000
+921,2,1.0,7,Delhi,Saket,Villa,Yes,Unfurnished,11890000
+1647,4,4.0,14,Chennai,Velachery,Apartment,Yes,Unfurnished,12780000
+714,1,1.0,3,Delhi,Rohini,Independent House,Yes,Semi-furnished,7240000
+935,2,2.0,23,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,4830000
+999,1,1.0,24,Kolkata,Rajarhat,Villa,Yes,Unfurnished,7610000
+1182,3,3.0,10,Kolkata,Rajarhat,Apartment,No,Unfurnished,7580000
+1801,5,4.0,0,Pune,Wakad,Apartment,Yes,Unfurnished,13950000
+2020,5,5.0,23,Bengaluru,Indiranagar,Apartment,Yes,Furnished,20020000
+1351,3,3.0,12,Ahmedabad,Bopal,Villa,Yes,Semi-furnished,10560000
+830,2,1.0,19,Mumbai,Thane,Apartment,Yes,Unfurnished,12520000
+1323,4,3.0,19,Bengaluru,Sarjapur Road,Independent House,Yes,Unfurnished,10150000
+1658,3,2.0,4,Hyderabad,Kondapur,Apartment,No,Semi-furnished,13610000
+1070,3,3.0,31,Chennai,Porur,Apartment,Yes,,8060000
+1531,5,4.0,27,Pune,Baner,Independent House,No,Furnished,10310000
+1548,4,3.0,5,Mumbai,Andheri,Independent House,Yes,Semi-furnished,25890000
+1522,3,3.0,9,Chennai,Porur,Villa,Yes,Semi-furnished,13610000
+1263,4,4.0,5,Delhi,Dwarka,Villa,Yes,Unfurnished,13420000
+1120,3,3.0,17,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,6690000
+1593,4,4.0,20,Chennai,Velachery,Apartment,Yes,Semi-furnished,11770000
+1739,4,4.0,28,Delhi,Noida Extension,Apartment,Yes,Unfurnished,17990000
+1334,3,3.0,33,Pune,Hinjewadi,Apartment,No,Semi-furnished,8610000
+831,4,3.0,3,Mumbai,Andheri,Apartment,Yes,Furnished,10840000
+1210,3,3.0,26,Kolkata,New Town,Apartment,Yes,Semi-furnished,6990000
+1296,4,4.0,14,Pune,Kharadi,Independent House,Yes,Unfurnished,12990000
+1346,3,3.0,34,Pune,Wakad,Apartment,Yes,Semi-furnished,9550000
+842,2,1.0,19,Pune,Kharadi,Independent House,Yes,Furnished,9060000
+706,2,2.0,35,Mumbai,Thane,Apartment,Yes,Semi-furnished,12480000
+450,2,2.0,34,Delhi,Rohini,Apartment,Yes,Semi-furnished,3590000
+1411,3,3.0,28,Pune,Baner,Villa,No,Unfurnished,11950000
+521,1,1.0,19,Chennai,Porur,Independent House,Yes,Unfurnished,4410000
+1397,3,2.0,6,Bengaluru,Electronic City,Apartment,No,Unfurnished,11730000
+661,1,1.0,3,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,4820000
+1683,4,4.0,24,Bengaluru,Sarjapur Road,Apartment,Yes,Semi-furnished,15750000
+802,1,1.0,29,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,7650000
+967,2,2.0,18,Kolkata,Behala,Apartment,Yes,Furnished,5770000
+2146,4,4.0,25,Kolkata,Rajarhat,Independent House,Yes,Semi-furnished,13420000
+1181,3,2.0,26,Mumbai,Andheri,Independent House,No,Unfurnished,23440000
+1492,3,3.0,14,Chennai,OMR,Independent House,Yes,Unfurnished,11410000
+548,1,1.0,12,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,3830000
+675,2,2.0,27,Pune,Wakad,Apartment,Yes,Semi-furnished,5270000
+1060,2,2.0,26,Delhi,Dwarka,Apartment,Yes,Semi-furnished,9280000
+1310,3,3.0,11,Hyderabad,Banjara Hills,Apartment,No,Unfurnished,8100000
+1752,5,5.0,34,Pune,Kharadi,Apartment,Yes,Unfurnished,12990000
+1250,2,2.0,29,Kolkata,Rajarhat,Independent House,Yes,Semi-furnished,6010000
+2027,5,5.0,7,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,15410000
+1574,4,3.0,29,Pune,Kharadi,Independent House,No,Furnished,15490000
+986,2,1.0,9,Pune,Kharadi,Apartment,Yes,Unfurnished,10790000
+1020,4,4.0,33,Kolkata,Rajarhat,Apartment,Yes,Semi-furnished,5870000
+2049,6,5.0,13,Pune,Baner,Apartment,Yes,Semi-furnished,13690000
+1400,2,2.0,21,Bengaluru,Whitefield,Villa,Yes,Furnished,11030000
+1576,5,5.0,28,Delhi,Saket,Apartment,No,Semi-furnished,13220000
+1849,4,,28,Hyderabad,Gachibowli,Apartment,No,Furnished,11190000
+649,3,2.0,11,Mumbai,Andheri,Apartment,No,Unfurnished,8940000
+1332,3,2.0,17,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,9500000
+1045,3,2.0,12,Chennai,Anna Nagar,Apartment,Yes,Unfurnished,8210000
+1394,3,3.0,20,Hyderabad,Kondapur,Apartment,Yes,Unfurnished,12440000
+820,1,1.0,2,Mumbai,Powai,Apartment,Yes,Semi-furnished,12530000
+2293,6,5.0,25,Pune,Baner,Apartment,Yes,Unfurnished,16580000
+1128,3,3.0,22,Delhi,Dwarka,Apartment,Yes,Semi-furnished,9000000
+2222,5,4.0,21,Chennai,OMR,Apartment,No,Semi-furnished,14580000
+1900,5,5.0,6,Delhi,Rohini,Villa,Yes,Furnished,20920000
+1645,3,3.0,0,Mumbai,Andheri,Apartment,Yes,Furnished,28490000
+1020,3,2.0,16,Delhi,Rohini,Villa,No,Unfurnished,11490000
+1366,3,3.0,29,Kolkata,Salt Lake,Apartment,Yes,Furnished,8460000
+937,3,3.0,2,Delhi,Noida Extension,Apartment,Yes,Furnished,11470000
+1051,2,1.0,26,Mumbai,Navi Mumbai,Apartment,Yes,Semi-furnished,20540000
+1827,5,5.0,2,Kolkata,Rajarhat,Villa,No,Furnished,12210000
+1736,5,4.0,13,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,8030000
+861,3,3.0,14,Ahmedabad,Bopal,Apartment,Yes,Furnished,4450000
+1908,4,3.0,3,Delhi,Dwarka,Independent House,Yes,Semi-furnished,18910000
+1090,4,3.0,18,Pune,Baner,Villa,Yes,,11520000
+1001,3,2.0,19,Hyderabad,Gachibowli,Apartment,Yes,Semi-furnished,7940000
+1021,1,1.0,7,Hyderabad,Banjara Hills,Villa,Yes,Unfurnished,10940000
+973,2,2.0,16,Pune,Kharadi,Villa,Yes,Unfurnished,12860000
+775,4,3.0,24,Delhi,Rohini,Apartment,Yes,Unfurnished,6730000
+2100,5,5.0,28,Bengaluru,Sarjapur Road,Independent House,Yes,Semi-furnished,17000000
+1206,3,3.0,10,Mumbai,Thane,Apartment,Yes,Unfurnished,16900000
+450,1,1.0,8,Ahmedabad,Bopal,Villa,No,Furnished,3830000
+1599,4,4.0,12,Hyderabad,Gachibowli,Apartment,Yes,Unfurnished,10170000
+1228,3,3.0,22,Bengaluru,Electronic City,Villa,Yes,Unfurnished,12920000
+2259,6,5.0,30,Kolkata,New Town,Apartment,Yes,Unfurnished,11280000
+473,1,1.0,3,Kolkata,Behala,Independent House,No,Unfurnished,3840000
+1158,3,2.0,15,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,8480000
+1553,5,5.0,6,Bengaluru,Indiranagar,Independent House,Yes,Unfurnished,14550000
+1411,3,3.0,25,Mumbai,Powai,Apartment,Yes,Unfurnished,20780000
+826,2,1.0,35,Ahmedabad,Prahlad Nagar,Apartment,No,Unfurnished,5450000
+1558,4,3.0,13,Kolkata,New Town,Apartment,Yes,Unfurnished,8290000
+774,2,2.0,33,Hyderabad,Gachibowli,Independent House,Yes,Unfurnished,6020000
+1530,4,4.0,13,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,8030000
+1453,3,3.0,11,Chennai,Velachery,Independent House,No,Unfurnished,13230000
+807,2,2.0,3,Delhi,Noida Extension,Villa,No,Semi-furnished,9020000
+1175,2,2.0,12,Mumbai,Thane,Apartment,Yes,Unfurnished,22370000
+1626,3,,7,Delhi,Dwarka,Apartment,No,Unfurnished,13220000
+2381,6,5.0,14,Mumbai,Andheri,Independent House,No,Furnished,45170000
+1249,2,1.0,14,Bengaluru,Electronic City,Apartment,Yes,Semi-furnished,11020000
+450,2,2.0,9,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,3440000
+741,2,2.0,33,Delhi,Noida Extension,Apartment,Yes,Unfurnished,7480000
+1965,4,3.0,3,Delhi,Dwarka,Apartment,No,Furnished,14690000
+2327,6,5.0,21,Kolkata,Behala,Independent House,Yes,Unfurnished,16000000
+1821,4,3.0,21,Delhi,Saket,Apartment,Yes,Semi-furnished,15640000
+450,2,2.0,19,Chennai,Anna Nagar,Apartment,Yes,Semi-furnished,4220000
+1792,4,3.0,33,Ahmedabad,Satellite,Apartment,No,Semi-furnished,8970000
+1956,4,4.0,28,Chennai,OMR,Apartment,Yes,Semi-furnished,11630000
+2806,6,5.0,8,Mumbai,Powai,Villa,Yes,Furnished,45600000
+1830,5,5.0,28,Chennai,OMR,Apartment,Yes,Unfurnished,9420000
+981,2,2.0,8,Ahmedabad,Satellite,Apartment,Yes,Semi-furnished,6300000
+1596,4,4.0,0,Kolkata,New Town,Villa,Yes,Unfurnished,10170000
+1029,3,3.0,7,Bengaluru,Electronic City,Independent House,Yes,Furnished,12160000
+921,3,3.0,17,Ahmedabad,Satellite,Apartment,No,Unfurnished,4100000
+798,3,3.0,24,Delhi,Noida Extension,Apartment,Yes,Furnished,8410000
+2127,4,4.0,32,Ahmedabad,Prahlad Nagar,Villa,Yes,Semi-furnished,15550000
+1414,3,3.0,25,Delhi,Saket,Apartment,Yes,Semi-furnished,14580000
+1457,4,3.0,10,Mumbai,Thane,Independent House,Yes,Unfurnished,29330000
+2251,5,4.0,16,Chennai,Anna Nagar,Apartment,Yes,Semi-furnished,13000000
+1326,2,2.0,9,Hyderabad,Miyapur,Apartment,No,Unfurnished,7500000
+1692,5,5.0,13,Delhi,Saket,Apartment,Yes,Semi-furnished,19870000
+1041,3,3.0,12,Hyderabad,Kondapur,Apartment,Yes,Unfurnished,7100000
+1788,4,4.0,5,Mumbai,Andheri,Apartment,Yes,Semi-furnished,27330000
+1667,4,3.0,11,Delhi,Rohini,Apartment,Yes,Unfurnished,17160000
+1867,4,4.0,3,Chennai,Velachery,Villa,Yes,Unfurnished,13370000
+1035,2,1.0,5,Chennai,Anna Nagar,Apartment,Yes,Semi-furnished,7880000
+724,4,4.0,5,Mumbai,Navi Mumbai,Apartment,No,Semi-furnished,12040000
+1713,4,4.0,25,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,9420000
+1032,3,2.0,22,Delhi,Noida Extension,Apartment,Yes,Furnished,10090000
+1269,3,3.0,29,Bengaluru,Electronic City,Independent House,Yes,Unfurnished,14210000
+1400,4,4.0,35,Kolkata,New Town,Apartment,Yes,Semi-furnished,7280000
+1180,4,3.0,16,Hyderabad,Gachibowli,Apartment,Yes,Unfurnished,6870000
+982,4,4.0,15,Ahmedabad,Satellite,Apartment,Yes,Furnished,5200000
+916,3,3.0,24,Kolkata,Salt Lake,Independent House,Yes,Unfurnished,4570000
+485,3,3.0,23,Chennai,Velachery,Apartment,Yes,Semi-furnished,3340000
+2275,5,5.0,16,Pune,Hinjewadi,Villa,No,Semi-furnished,21820000
+1424,3,3.0,14,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,9490000
+1962,5,4.0,20,Mumbai,Thane,Villa,Yes,Furnished,32020000
+1271,4,4.0,8,Chennai,Velachery,Independent House,Yes,Semi-furnished,10370000
+1265,2,1.0,20,Hyderabad,Kondapur,Independent House,Yes,Furnished,10270000
+1919,4,4.0,20,Delhi,Dwarka,Villa,Yes,Unfurnished,17820000
+1226,3,3.0,19,Delhi,Saket,Apartment,No,Unfurnished,10380000
+1289,3,3.0,5,Chennai,OMR,Villa,Yes,Semi-furnished,9100000
+1010,3,3.0,10,Ahmedabad,Gota,Apartment,No,Semi-furnished,7830000
+2487,5,5.0,23,Ahmedabad,Satellite,Apartment,Yes,Unfurnished,10520000
+829,2,1.0,17,Ahmedabad,Gota,Independent House,Yes,Semi-furnished,6180000
+1088,3,3.0,11,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,6660000
+1380,4,4.0,5,Ahmedabad,Prahlad Nagar,Villa,Yes,Semi-furnished,10070000
+450,1,1.0,30,Mumbai,Thane,Independent House,Yes,Semi-furnished,8040000
+1305,3,2.0,12,Chennai,OMR,Apartment,Yes,Unfurnished,7610000
+1804,4,4.0,12,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,13750000
+1330,3,3.0,3,Delhi,Saket,Apartment,Yes,Furnished,13450000
+2010,4,4.0,11,Hyderabad,Banjara Hills,Apartment,No,Furnished,17820000
+1231,3,2.0,18,Delhi,Rohini,Independent House,No,Unfurnished,12130000
+968,2,1.0,19,Ahmedabad,Gota,Apartment,Yes,Unfurnished,6740000
+1005,4,4.0,4,Kolkata,Rajarhat,Independent House,Yes,Semi-furnished,7290000
+1273,3,2.0,30,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,22860000
+1622,4,3.0,9,Kolkata,New Town,Independent House,Yes,Unfurnished,7530000
+891,1,1.0,21,Mumbai,Navi Mumbai,Apartment,Yes,Furnished,15630000
+1186,3,3.0,25,Mumbai,Thane,Apartment,Yes,Unfurnished,16240000
+1304,2,2.0,31,Delhi,Rohini,Independent House,No,Unfurnished,12390000
+686,1,1.0,2,Chennai,Anna Nagar,Apartment,Yes,Unfurnished,5960000
+1650,4,4.0,14,Bengaluru,Electronic City,Apartment,No,Unfurnished,13190000
+1675,5,5.0,4,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,8760000
+814,2,2.0,7,Bengaluru,Indiranagar,Independent House,Yes,Furnished,8540000
+878,5,5.0,21,Pune,Baner,Apartment,Yes,Unfurnished,6500000
+1079,2,2.0,4,Chennai,Anna Nagar,Apartment,Yes,Unfurnished,9100000
+1594,3,3.0,16,Kolkata,Salt Lake,Villa,Yes,Semi-furnished,11480000
+1914,3,2.0,19,Chennai,Velachery,Villa,Yes,Semi-furnished,10500000
+1905,4,3.0,10,Chennai,Velachery,Apartment,Yes,Unfurnished,12660000
+2160,5,5.0,30,Kolkata,New Town,Apartment,Yes,Unfurnished,9870000
+728,3,3.0,30,Bengaluru,Sarjapur Road,Apartment,Yes,Semi-furnished,5460000
+1769,4,4.0,4,Delhi,Dwarka,Villa,No,Unfurnished,18020000
+1731,5,5.0,26,Bengaluru,Sarjapur Road,Apartment,Yes,Semi-furnished,13940000
+2051,6,5.0,16,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,12210000
+2322,6,5.0,25,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,38430000
+1124,2,1.0,10,Ahmedabad,Bopal,Independent House,Yes,Unfurnished,8030000
+1263,2,1.0,15,Hyderabad,Banjara Hills,Villa,Yes,Furnished,13090000
+1554,4,4.0,16,Mumbai,Navi Mumbai,Villa,No,Unfurnished,27930000
+535,1,1.0,6,Pune,Baner,Apartment,Yes,Semi-furnished,3930000
+2332,4,4.0,35,Kolkata,New Town,Apartment,Yes,Furnished,13300000
+1741,4,4.0,33,Mumbai,Powai,Independent House,Yes,Furnished,23360000
+694,1,1.0,7,Mumbai,Andheri,Apartment,No,Furnished,11130000
+2043,4,4.0,20,Pune,Wakad,Villa,No,Unfurnished,16820000
+1866,4,3.0,27,Chennai,Porur,Apartment,Yes,Furnished,13720000
+843,2,2.0,18,Mumbai,Thane,Apartment,No,Unfurnished,11060000
+2034,6,5.0,4,Pune,Kharadi,Independent House,No,Semi-furnished,23900000
+1273,3,3.0,6,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,6290000
+884,1,1.0,17,Ahmedabad,Satellite,Independent House,No,Unfurnished,5010000
+1209,3,2.0,32,Mumbai,Thane,Apartment,Yes,Semi-furnished,16790000
+450,1,1.0,28,Delhi,Rohini,Apartment,Yes,Semi-furnished,4380000
+470,2,2.0,14,Pune,Kharadi,Independent House,Yes,Furnished,4760000
+1476,5,5.0,12,Pune,Hinjewadi,Apartment,Yes,Unfurnished,11140000
+1456,3,3.0,9,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,11200000
+690,2,1.0,9,Chennai,Porur,Villa,Yes,Semi-furnished,6620000
+549,2,2.0,7,Pune,Hinjewadi,Apartment,No,Unfurnished,4570000
+1874,5,5.0,8,Delhi,Rohini,Apartment,Yes,Semi-furnished,17760000
+1422,4,4.0,24,Pune,Kharadi,Apartment,Yes,Furnished,11010000
+1607,4,4.0,28,Delhi,Dwarka,Villa,Yes,Unfurnished,19080000
+1572,5,5.0,5,Hyderabad,Kondapur,Independent House,Yes,Furnished,14340000
+1658,4,4.0,14,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,31340000
+861,4,3.0,13,Chennai,Porur,Apartment,Yes,Semi-furnished,5340000
+1258,3,3.0,15,Mumbai,Thane,Independent House,Yes,Semi-furnished,26010000
+1813,4,4.0,28,Chennai,Velachery,Apartment,Yes,Unfurnished,9910000
+1660,4,4.0,10,Delhi,Noida Extension,Villa,Yes,Unfurnished,21940000
+1346,4,3.0,21,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,7490000
+1724,4,4.0,8,Hyderabad,Banjara Hills,Apartment,Yes,Furnished,14740000
+1308,3,3.0,28,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,13940000
+1315,4,3.0,1,Bengaluru,Indiranagar,Apartment,No,Furnished,10260000
+2130,5,5.0,35,Bengaluru,Electronic City,Apartment,Yes,Semi-furnished,14900000
+1951,4,3.0,17,Delhi,Dwarka,Independent House,Yes,Semi-furnished,18960000
+621,1,1.0,17,Ahmedabad,Prahlad Nagar,Apartment,No,Semi-furnished,4360000
+1575,2,2.0,35,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,13880000
+1650,3,2.0,14,Mumbai,Thane,Independent House,Yes,Semi-furnished,32750000
+1217,3,3.0,6,Pune,Kharadi,Apartment,Yes,Unfurnished,11390000
+1978,5,5.0,16,Chennai,Porur,Apartment,Yes,Furnished,13000000
+1014,2,2.0,19,Bengaluru,Sarjapur Road,Villa,Yes,Semi-furnished,12250000
+974,2,1.0,13,Delhi,Saket,Apartment,Yes,Unfurnished,9660000
+1287,3,3.0,19,Chennai,Anna Nagar,Apartment,No,Unfurnished,9130000
+1840,5,5.0,8,Bengaluru,Whitefield,Apartment,Yes,Unfurnished,13740000
+578,3,3.0,4,Kolkata,Salt Lake,Villa,Yes,Unfurnished,4140000
+1329,2,2.0,5,Pune,Hinjewadi,Independent House,Yes,Furnished,13400000
+1651,5,4.0,32,Hyderabad,Miyapur,Apartment,No,Semi-furnished,11630000
+626,2,2.0,4,Hyderabad,Miyapur,Independent House,Yes,Semi-furnished,6660000
+1416,3,3.0,28,Pune,Wakad,Villa,Yes,Semi-furnished,14420000
+1608,3,3.0,20,Mumbai,Powai,Independent House,Yes,Furnished,29250000
+992,4,4.0,18,Delhi,Rohini,Villa,Yes,Semi-furnished,12300000
+1686,3,3.0,10,Ahmedabad,Satellite,Apartment,No,Unfurnished,9100000
+1013,2,1.0,22,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,6280000
+450,1,1.0,6,Mumbai,Navi Mumbai,Apartment,Yes,Furnished,10490000
+1083,2,2.0,33,Kolkata,New Town,Independent House,Yes,Semi-furnished,4660000
+1840,4,4.0,23,Chennai,Velachery,Independent House,Yes,Unfurnished,14890000
+1457,4,4.0,25,Chennai,OMR,Apartment,Yes,Furnished,6030000
+1716,4,4.0,18,Chennai,Porur,Apartment,Yes,Semi-furnished,12960000
+1459,4,4.0,11,Delhi,Noida Extension,Villa,Yes,Furnished,25890000
+1849,5,5.0,29,Kolkata,Behala,Villa,No,Semi-furnished,13040000
+1062,3,3.0,1,Delhi,Saket,Apartment,No,Semi-furnished,12190000
+994,3,2.0,4,Hyderabad,Miyapur,Apartment,Yes,Furnished,9120000
+2001,5,5.0,16,Bengaluru,Indiranagar,Independent House,Yes,Unfurnished,20680000
+1208,3,3.0,8,Ahmedabad,Satellite,Villa,Yes,Unfurnished,7980000
+1627,4,4.0,24,Ahmedabad,Satellite,Apartment,Yes,Unfurnished,9010000
+904,2,2.0,33,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,8250000
+954,3,3.0,26,Mumbai,Thane,Villa,No,Semi-furnished,18270000
+490,2,1.0,21,Hyderabad,Gachibowli,Apartment,No,Furnished,3160000
+1571,3,2.0,3,Kolkata,Rajarhat,Apartment,No,Semi-furnished,8530000
+1754,5,4.0,24,Hyderabad,Banjara Hills,Apartment,Yes,Unfurnished,12820000
+1990,3,3.0,27,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,13120000
+2212,3,3.0,22,Chennai,Porur,Apartment,Yes,Unfurnished,15640000
+1148,3,3.0,26,Chennai,OMR,Apartment,Yes,Unfurnished,5750000
+1125,2,2.0,20,Bengaluru,Whitefield,Apartment,Yes,Unfurnished,8680000
+1663,4,4.0,31,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,12580000
+1052,2,1.0,23,Ahmedabad,Prahlad Nagar,Apartment,Yes,Furnished,7940000
+1543,4,4.0,12,Pune,Kharadi,Apartment,Yes,Unfurnished,14020000
+821,2,1.0,29,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,4240000
+1065,3,3.0,19,Hyderabad,Banjara Hills,Apartment,No,Semi-furnished,7770000
+743,2,1.0,0,Delhi,Dwarka,Villa,Yes,Unfurnished,7500000
+1850,3,3.0,3,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,17580000
+1409,5,5.0,9,Delhi,Dwarka,Apartment,Yes,Unfurnished,12910000
+1461,3,3.0,17,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,6810000
+1032,3,3.0,32,Pune,Kharadi,Villa,No,Semi-furnished,11150000
+881,3,2.0,35,Ahmedabad,Gota,Villa,Yes,Unfurnished,5880000
+1768,5,5.0,21,Kolkata,New Town,Apartment,Yes,Unfurnished,8110000
+1065,3,2.0,22,Ahmedabad,Bopal,Independent House,Yes,Semi-furnished,8290000
+540,2,1.0,13,Chennai,Velachery,Apartment,No,Unfurnished,3540000
+558,1,1.0,35,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,4700000
+827,3,3.0,20,Bengaluru,Electronic City,Villa,Yes,Semi-furnished,8180000
+1370,3,3.0,26,Chennai,OMR,Apartment,Yes,Furnished,8790000
+1433,4,3.0,0,Ahmedabad,Prahlad Nagar,Villa,Yes,Semi-furnished,11170000
+2644,6,5.0,16,Pune,Baner,Apartment,Yes,Unfurnished,16630000
+2008,4,3.0,19,Pune,Wakad,Apartment,Yes,Semi-furnished,18310000
+1010,2,1.0,8,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,4390000
+1575,3,3.0,13,Kolkata,Salt Lake,Apartment,No,Unfurnished,7820000
+1193,2,1.0,9,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,9490000
+1806,4,4.0,23,Chennai,Anna Nagar,Apartment,No,Semi-furnished,9570000
+1279,3,3.0,15,Delhi,Dwarka,Apartment,Yes,Unfurnished,11520000
+2041,5,5.0,9,Delhi,Noida Extension,Apartment,Yes,Unfurnished,22250000
+1913,4,4.0,11,Delhi,Saket,Independent House,Yes,Unfurnished,23420000
+1823,4,3.0,6,Hyderabad,Banjara Hills,Apartment,Yes,Furnished,17400000
+1844,4,3.0,3,Ahmedabad,Prahlad Nagar,Villa,Yes,Furnished,17890000
+2060,4,3.0,17,Chennai,Anna Nagar,Apartment,Yes,Furnished,18110000
+1867,4,4.0,4,Pune,Hinjewadi,Apartment,Yes,Unfurnished,15510000
+1978,4,4.0,16,Hyderabad,Gachibowli,Apartment,Yes,Semi-furnished,14880000
+1137,2,2.0,2,Pune,Baner,Villa,Yes,Semi-furnished,11030000
+772,2,2.0,3,Delhi,Noida Extension,Apartment,Yes,Furnished,8820000
+804,1,1.0,17,Ahmedabad,Bopal,Independent House,No,Semi-furnished,4930000
+667,1,1.0,5,Bengaluru,Electronic City,Apartment,Yes,Semi-furnished,5850000
+618,2,2.0,26,Kolkata,Behala,Independent House,Yes,Semi-furnished,3670000
+1004,2,2.0,19,Ahmedabad,Gota,Villa,Yes,Unfurnished,7010000
+835,4,3.0,14,Kolkata,Rajarhat,Apartment,Yes,Semi-furnished,4740000
+1336,3,3.0,8,Hyderabad,Kondapur,Villa,Yes,Unfurnished,12020000
+1333,3,3.0,32,Bengaluru,Sarjapur Road,Independent House,Yes,Unfurnished,10220000
+1424,3,3.0,19,Hyderabad,Miyapur,Independent House,Yes,Semi-furnished,11310000
+1257,4,4.0,26,Pune,Baner,Apartment,Yes,Semi-furnished,10480000
+712,4,4.0,28,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,12560000
+1750,4,4.0,21,Delhi,Noida Extension,Apartment,No,Semi-furnished,17610000
+1638,2,2.0,6,Delhi,Saket,Apartment,Yes,Unfurnished,15690000
+1890,4,4.0,22,Delhi,Noida Extension,Apartment,Yes,Unfurnished,18320000
+990,3,3.0,35,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,7330000
+1880,5,5.0,20,Hyderabad,Banjara Hills,Apartment,Yes,Unfurnished,13710000
+1341,4,4.0,7,Kolkata,Behala,Villa,Yes,Semi-furnished,8850000
+450,1,1.0,29,Chennai,Porur,Independent House,Yes,Unfurnished,4020000
+1438,3,2.0,1,Delhi,Dwarka,Independent House,Yes,Semi-furnished,16500000
+1158,2,2.0,6,Hyderabad,Gachibowli,Apartment,Yes,Unfurnished,6980000
+997,2,2.0,32,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,6400000
+966,2,2.0,8,Bengaluru,Whitefield,Apartment,No,Furnished,8190000
+1321,3,,31,Pune,Wakad,Villa,Yes,Unfurnished,11010000
+2140,5,4.0,8,Hyderabad,Miyapur,Apartment,Yes,Furnished,19650000
+724,2,1.0,0,Bengaluru,Electronic City,Villa,Yes,Semi-furnished,8670000
+1325,4,4.0,0,Chennai,Velachery,Villa,Yes,Unfurnished,11940000
+1573,4,4.0,9,Hyderabad,Gachibowli,Independent House,Yes,Furnished,13150000
+1906,5,4.0,14,Mumbai,Navi Mumbai,Independent House,Yes,Furnished,37320000
+1668,3,3.0,31,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,15510000
+1341,4,3.0,7,Kolkata,Salt Lake,Independent House,Yes,Unfurnished,7960000
+735,3,3.0,0,Delhi,Noida Extension,Apartment,No,Unfurnished,7790000
+1907,4,,29,Delhi,Dwarka,Villa,Yes,Semi-furnished,17460000
+625,2,1.0,13,Ahmedabad,Gota,Apartment,Yes,Furnished,3840000
+1387,3,2.0,27,Mumbai,Navi Mumbai,Apartment,Yes,Furnished,28630000
+1362,2,2.0,5,Pune,Wakad,Apartment,Yes,Unfurnished,10830000
+1608,4,4.0,31,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,11250000
+1490,3,3.0,30,Ahmedabad,Prahlad Nagar,Independent House,Yes,Unfurnished,10420000
+1760,5,5.0,17,Chennai,OMR,Villa,Yes,Unfurnished,11310000
+1169,3,2.0,9,Mumbai,Andheri,Apartment,Yes,Semi-furnished,21620000
+1093,4,4.0,3,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,6580000
+954,3,3.0,9,Hyderabad,Gachibowli,Apartment,Yes,Semi-furnished,5710000
+1776,4,3.0,31,Bengaluru,Sarjapur Road,Independent House,No,Unfurnished,12540000
+1778,4,4.0,9,Delhi,Dwarka,Villa,Yes,Furnished,17920000
+643,3,2.0,9,Pune,Kharadi,Apartment,No,Semi-furnished,5470000
+1416,3,2.0,5,Bengaluru,Electronic City,Villa,Yes,Semi-furnished,13050000
+943,3,2.0,17,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,6330000
+1813,4,4.0,28,Ahmedabad,Satellite,Villa,Yes,Semi-furnished,12410000
+1765,5,5.0,30,Chennai,Porur,Apartment,Yes,Unfurnished,11350000
+1368,4,4.0,6,Bengaluru,Sarjapur Road,Apartment,No,Semi-furnished,11410000
+639,2,2.0,23,Delhi,Noida Extension,Apartment,Yes,Unfurnished,6790000
+1579,5,4.0,21,Bengaluru,Whitefield,Apartment,Yes,Furnished,10120000
+845,1,1.0,12,Kolkata,Behala,Apartment,Yes,Semi-furnished,4560000
+1124,3,3.0,5,Ahmedabad,Satellite,Apartment,No,Semi-furnished,7240000
+1150,3,2.0,34,Chennai,Velachery,Apartment,Yes,Unfurnished,8430000
+2600,4,4.0,19,Kolkata,Behala,Apartment,Yes,Furnished,15040000
+1173,4,4.0,7,Pune,Hinjewadi,Independent House,No,Furnished,10910000
+884,3,2.0,21,Kolkata,Rajarhat,Apartment,Yes,Semi-furnished,5610000
+1373,4,3.0,23,Kolkata,Behala,Independent House,Yes,Semi-furnished,9550000
+1344,1,1.0,6,Chennai,Velachery,Independent House,Yes,Furnished,10420000
+1440,3,3.0,12,Ahmedabad,Prahlad Nagar,Villa,Yes,Unfurnished,9000000
+1420,4,3.0,9,Chennai,Velachery,Apartment,Yes,Semi-furnished,10480000
+603,2,2.0,24,Mumbai,Andheri,Independent House,Yes,Semi-furnished,12760000
+2011,4,3.0,1,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,33320000
+1064,4,3.0,10,Ahmedabad,Satellite,Villa,Yes,Unfurnished,5730000
+993,3,3.0,19,Delhi,Saket,Apartment,Yes,Furnished,8420000
+568,2,2.0,9,Mumbai,Andheri,Apartment,Yes,Semi-furnished,12480000
+2319,5,5.0,31,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,11250000
+1154,4,4.0,27,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,5720000
+1588,5,5.0,19,Delhi,Noida Extension,Independent House,No,Unfurnished,17550000
+849,3,3.0,33,Chennai,Porur,Apartment,No,Furnished,5280000
+1063,3,3.0,18,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,6800000
+975,3,2.0,18,Pune,Wakad,Apartment,Yes,Unfurnished,8060000
+450,2,2.0,0,Mumbai,Powai,Apartment,Yes,Unfurnished,8410000
+980,1,1.0,7,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,6460000
+833,2,1.0,34,Bengaluru,Electronic City,Apartment,Yes,Semi-furnished,6790000
+1852,4,4.0,7,Bengaluru,Indiranagar,Independent House,Yes,Semi-furnished,15590000
+455,1,1.0,3,Delhi,Dwarka,Villa,No,Unfurnished,4920000
+2150,5,5.0,24,Delhi,Dwarka,Apartment,No,Semi-furnished,16270000
+1563,4,4.0,17,Delhi,Dwarka,Villa,Yes,Furnished,16470000
+1175,3,3.0,14,Delhi,Noida Extension,Apartment,Yes,Furnished,11020000
+796,2,1.0,32,Kolkata,Behala,Apartment,Yes,Semi-furnished,5060000
+1373,4,3.0,1,Delhi,Rohini,Apartment,Yes,Furnished,15070000
+1671,4,3.0,31,Chennai,OMR,Apartment,Yes,Semi-furnished,8020000
+1279,4,4.0,26,Mumbai,Powai,Apartment,Yes,Semi-furnished,17300000
+873,2,2.0,30,Hyderabad,Gachibowli,Independent House,No,Unfurnished,6120000
+587,2,2.0,0,Ahmedabad,Gota,Apartment,Yes,Furnished,4960000
+772,2,2.0,7,Hyderabad,Banjara Hills,Villa,No,Semi-furnished,6630000
+1415,4,3.0,17,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,6790000
+1062,3,3.0,34,Chennai,Porur,Villa,Yes,Unfurnished,10500000
+1687,4,4.0,0,Hyderabad,Gachibowli,Apartment,Yes,Furnished,12660000
+1033,3,2.0,13,Kolkata,New Town,Apartment,Yes,Semi-furnished,6580000
+2122,5,5.0,10,Mumbai,Thane,Apartment,Yes,Semi-furnished,29390000
+637,3,3.0,5,Delhi,Saket,Villa,Yes,Unfurnished,7860000
+1122,2,2.0,29,Delhi,Rohini,Apartment,Yes,Unfurnished,9720000
+1376,4,4.0,5,Delhi,Rohini,Apartment,Yes,Unfurnished,12450000
+923,1,1.0,2,Delhi,Dwarka,Apartment,Yes,Unfurnished,6800000
+844,3,2.0,8,Chennai,Porur,Apartment,Yes,Semi-furnished,6980000
+1445,3,2.0,4,Mumbai,Navi Mumbai,Independent House,Yes,Unfurnished,33860000
+2169,6,5.0,7,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,12010000
+1533,4,3.0,30,Chennai,Velachery,Apartment,No,Semi-furnished,7730000
+1180,3,2.0,22,Bengaluru,Whitefield,Villa,Yes,Furnished,9810000
+1250,3,3.0,30,Hyderabad,Kondapur,Independent House,Yes,Unfurnished,8780000
+1560,4,4.0,15,Ahmedabad,Gota,Apartment,No,Semi-furnished,12410000
+1818,6,5.0,25,Kolkata,Salt Lake,Villa,Yes,Furnished,11060000
+1070,3,2.0,17,Pune,Hinjewadi,Independent House,Yes,Semi-furnished,7660000
+2466,6,5.0,16,Pune,Baner,Independent House,Yes,Semi-furnished,18250000
+1009,2,2.0,8,Delhi,Dwarka,Villa,Yes,Semi-furnished,10510000
+1058,2,2.0,10,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,6260000
+871,2,1.0,25,Ahmedabad,Bopal,Apartment,Yes,Unfurnished,4660000
+665,2,2.0,9,Chennai,OMR,Apartment,No,Semi-furnished,4940000
+1482,2,2.0,17,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,7020000
+2524,6,5.0,25,Chennai,Porur,Villa,No,Semi-furnished,19040000
+1689,3,3.0,18,Mumbai,Powai,Independent House,Yes,Furnished,30380000
+552,2,2.0,1,Mumbai,Powai,Villa,Yes,Unfurnished,11140000
+1240,3,2.0,15,Ahmedabad,Gota,Apartment,No,Semi-furnished,6900000
+1441,3,3.0,25,Hyderabad,Gachibowli,Independent House,No,Semi-furnished,11200000
+585,2,1.0,24,Pune,Wakad,Apartment,Yes,Semi-furnished,4760000
+1616,4,4.0,12,Chennai,Velachery,Villa,Yes,Semi-furnished,11990000
+2582,6,5.0,25,Pune,Baner,Independent House,Yes,Furnished,22900000
+1592,4,3.0,35,Ahmedabad,Prahlad Nagar,Apartment,Yes,Furnished,9840000
+450,1,1.0,29,Mumbai,Powai,Apartment,Yes,Furnished,7090000
+554,3,3.0,20,Pune,Wakad,Apartment,Yes,Unfurnished,4130000
+1136,3,3.0,10,Delhi,Dwarka,Apartment,No,Semi-furnished,9380000
+1200,4,4.0,18,Kolkata,Rajarhat,Apartment,Yes,Semi-furnished,7080000
+804,3,2.0,22,Ahmedabad,Satellite,Villa,Yes,Semi-furnished,5180000
+2087,5,5.0,27,Kolkata,Rajarhat,Villa,No,Semi-furnished,14040000
+1053,3,3.0,17,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,6600000
+1512,4,4.0,30,Kolkata,Behala,Villa,Yes,Semi-furnished,10080000
+1419,3,3.0,31,Ahmedabad,Bopal,Villa,Yes,Semi-furnished,10840000
+919,2,1.0,29,Ahmedabad,Gota,Villa,Yes,Furnished,8170000
+1892,4,4.0,19,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,15190000
+1792,5,4.0,4,Mumbai,Powai,Apartment,Yes,Semi-furnished,34170000
+1010,3,3.0,8,Chennai,Velachery,Apartment,Yes,Semi-furnished,6370000
+657,1,1.0,23,Hyderabad,Gachibowli,Apartment,No,Unfurnished,4870000
+1114,4,4.0,4,Bengaluru,Whitefield,Apartment,Yes,Unfurnished,8280000
+2008,4,3.0,23,Chennai,OMR,Independent House,Yes,Semi-furnished,12850000
+1881,4,3.0,21,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,14030000
+960,3,3.0,2,Delhi,Saket,Villa,Yes,Semi-furnished,14070000
+1438,5,5.0,21,Pune,Wakad,Villa,No,Unfurnished,13140000
+1480,4,3.0,20,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,11110000
+1292,2,2.0,27,Delhi,Saket,Villa,Yes,Unfurnished,15160000
+1621,5,4.0,33,Chennai,Anna Nagar,Villa,Yes,Furnished,15750000
+873,2,1.0,25,Pune,Wakad,Apartment,No,Semi-furnished,6690000
+1496,3,3.0,7,Delhi,Saket,Apartment,Yes,Furnished,18040000
+450,2,1.0,28,Delhi,Noida Extension,Villa,No,Unfurnished,5910000
+1688,4,4.0,28,Hyderabad,Kondapur,Apartment,Yes,Unfurnished,11030000
+1340,4,3.0,3,Hyderabad,Miyapur,Villa,Yes,Semi-furnished,13900000
+822,2,2.0,21,Ahmedabad,Gota,Independent House,Yes,Semi-furnished,6980000
+2263,4,4.0,11,Delhi,Dwarka,Apartment,Yes,Unfurnished,23420000
+2097,5,5.0,12,Ahmedabad,Prahlad Nagar,Independent House,No,Furnished,15470000
+1619,4,4.0,26,Kolkata,Behala,Apartment,No,Furnished,7920000
+2246,5,5.0,2,Chennai,Porur,Apartment,Yes,Furnished,17970000
+1374,2,1.0,7,Delhi,Rohini,Apartment,Yes,Unfurnished,13730000
+879,3,2.0,31,Mumbai,Powai,Apartment,Yes,Unfurnished,13290000
+1468,3,3.0,1,Bengaluru,Indiranagar,Independent House,Yes,Semi-furnished,14210000
+1520,3,2.0,14,Ahmedabad,Bopal,Villa,No,Semi-furnished,9710000
+1068,4,4.0,10,Ahmedabad,Satellite,Apartment,Yes,Unfurnished,6520000
+1775,4,4.0,4,Hyderabad,Banjara Hills,Apartment,No,Semi-furnished,16190000
+1719,5,4.0,27,Delhi,Dwarka,Apartment,Yes,Furnished,13530000
+871,3,2.0,13,Pune,Hinjewadi,Independent House,Yes,Unfurnished,7290000
+2042,4,3.0,24,Kolkata,Rajarhat,Apartment,No,Unfurnished,9640000
+1473,3,2.0,12,Hyderabad,Gachibowli,Villa,Yes,Semi-furnished,12820000
+1710,3,3.0,18,Mumbai,Navi Mumbai,Villa,Yes,,36990000
+1425,3,3.0,31,Bengaluru,Indiranagar,Independent House,Yes,Semi-furnished,16000000
+701,2,2.0,14,Kolkata,Behala,Apartment,Yes,Semi-furnished,4320000
+2354,5,5.0,0,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,44390000
+1780,4,4.0,4,Ahmedabad,Prahlad Nagar,Apartment,No,Semi-furnished,10960000
+2176,3,3.0,18,Mumbai,Andheri,Independent House,Yes,Semi-furnished,47590000
+1506,4,4.0,8,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,15410000
+830,4,3.0,14,Ahmedabad,Satellite,Villa,No,Unfurnished,4650000
+1908,4,4.0,27,Bengaluru,Electronic City,Apartment,Yes,Furnished,15770000
+1224,2,2.0,22,Chennai,Anna Nagar,Independent House,No,Semi-furnished,9070000
+1715,3,2.0,29,Pune,Kharadi,Apartment,Yes,Semi-furnished,17480000
+1467,4,3.0,20,Chennai,Anna Nagar,Villa,No,Unfurnished,13290000
+1896,6,5.0,35,Pune,Wakad,Apartment,Yes,Unfurnished,16260000
+1717,4,4.0,21,Pune,Hinjewadi,Apartment,Yes,Semi-furnished,16090000
+835,3,3.0,6,Chennai,Porur,Villa,No,Unfurnished,7330000
+1497,4,3.0,4,Bengaluru,Indiranagar,Independent House,Yes,Semi-furnished,14750000
+1095,4,4.0,13,Chennai,Porur,Villa,Yes,Semi-furnished,8730000
+843,3,3.0,13,Ahmedabad,Prahlad Nagar,Independent House,No,Furnished,5790000
+937,2,2.0,25,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,8580000
+647,2,2.0,14,Ahmedabad,Gota,Apartment,Yes,Semi-furnished,3710000
+1302,4,3.0,9,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,10780000
+850,3,2.0,32,Delhi,Saket,Apartment,Yes,Semi-furnished,8730000
+1036,3,3.0,26,Mumbai,Powai,Apartment,Yes,Unfurnished,13200000
+1009,3,2.0,3,Chennai,Velachery,Independent House,Yes,Semi-furnished,7620000
+2300,6,5.0,27,Hyderabad,Gachibowli,Apartment,Yes,Semi-furnished,13210000
+1536,3,3.0,20,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,14930000
+2076,4,4.0,13,Mumbai,Thane,Villa,Yes,Semi-furnished,45070000
+1702,4,4.0,1,Hyderabad,Gachibowli,Apartment,Yes,Semi-furnished,10050000
+1623,4,4.0,4,Delhi,Dwarka,Apartment,Yes,Unfurnished,12570000
+848,3,3.0,10,Ahmedabad,Prahlad Nagar,Apartment,No,Semi-furnished,4980000
+1275,2,2.0,35,Ahmedabad,Bopal,Independent House,Yes,Unfurnished,8550000
+1267,2,2.0,33,Bengaluru,Indiranagar,Independent House,Yes,Semi-furnished,13890000
+881,2,1.0,16,Hyderabad,Banjara Hills,Villa,Yes,Unfurnished,9120000
+1494,5,5.0,33,Hyderabad,Banjara Hills,Villa,No,Semi-furnished,14370000
+1359,3,3.0,19,Mumbai,Powai,Apartment,No,Semi-furnished,16030000
+2037,4,3.0,11,Hyderabad,Gachibowli,Apartment,Yes,Semi-furnished,12350000
+609,3,3.0,6,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,5030000
+935,2,1.0,11,Delhi,Rohini,Villa,Yes,Unfurnished,10390000
+1593,3,2.0,8,Chennai,Porur,Apartment,Yes,Unfurnished,12600000
+1574,4,4.0,33,Chennai,OMR,Apartment,No,Semi-furnished,9770000
+1591,3,3.0,31,Mumbai,Navi Mumbai,Independent House,Yes,Semi-furnished,32220000
+2032,5,5.0,29,Bengaluru,Whitefield,Independent House,Yes,Semi-furnished,18500000
+902,2,2.0,18,Mumbai,Andheri,Apartment,Yes,Semi-furnished,12480000
+766,3,3.0,9,Pune,Baner,Apartment,Yes,Semi-furnished,5620000
+632,2,2.0,16,Kolkata,Behala,Independent House,Yes,Semi-furnished,5440000
+1325,3,3.0,33,Delhi,Rohini,Apartment,No,Furnished,10800000
+806,3,2.0,14,Pune,Hinjewadi,Apartment,Yes,Furnished,6160000
+2111,5,5.0,35,Pune,Kharadi,Apartment,Yes,Furnished,17670000
+1736,5,5.0,11,Mumbai,Thane,Apartment,Yes,Semi-furnished,27650000
+1400,4,4.0,14,Mumbai,Powai,Villa,No,Furnished,24040000
+1339,3,3.0,3,Bengaluru,Sarjapur Road,Apartment,Yes,Unfurnished,13180000
+1027,2,1.0,11,Kolkata,Rajarhat,Independent House,Yes,Unfurnished,7340000
+1736,5,4.0,27,Chennai,OMR,Apartment,Yes,Furnished,12900000
+2133,6,5.0,17,Hyderabad,Miyapur,Apartment,Yes,Unfurnished,19420000
+1098,2,2.0,23,Hyderabad,Kondapur,Apartment,Yes,Furnished,7390000
+1515,3,2.0,33,Mumbai,Andheri,Apartment,Yes,Furnished,21160000
+707,2,2.0,19,Hyderabad,Kondapur,Apartment,No,Semi-furnished,4630000
+1561,4,3.0,31,Mumbai,Andheri,Independent House,No,Semi-furnished,27350000
+1154,3,3.0,26,Mumbai,Powai,Apartment,Yes,Unfurnished,16710000
+450,3,2.0,2,Mumbai,Navi Mumbai,Apartment,Yes,Semi-furnished,9070000
+1144,3,3.0,25,Kolkata,Behala,Villa,Yes,Unfurnished,7140000
+1634,4,4.0,4,Pune,Baner,Apartment,Yes,Semi-furnished,14190000
+1186,2,2.0,19,Hyderabad,Banjara Hills,Independent House,Yes,Semi-furnished,12460000
+1600,4,4.0,15,Chennai,Velachery,Apartment,Yes,Unfurnished,11010000
+1369,5,5.0,3,Kolkata,Behala,Independent House,Yes,Unfurnished,8490000
+716,2,1.0,1,Mumbai,Thane,Apartment,Yes,Semi-furnished,11200000
+942,3,2.0,26,Hyderabad,Gachibowli,Apartment,Yes,Unfurnished,4840000
+1597,4,4.0,4,Ahmedabad,Prahlad Nagar,Villa,Yes,Unfurnished,13030000
+1600,5,4.0,12,Pune,Hinjewadi,Apartment,Yes,Furnished,12690000
+1903,4,4.0,23,Bengaluru,Electronic City,Apartment,Yes,Semi-furnished,14910000
+1111,5,5.0,3,Kolkata,New Town,Apartment,Yes,Unfurnished,6210000
+1503,3,3.0,23,Hyderabad,Gachibowli,Apartment,Yes,Unfurnished,9950000
+1390,2,2.0,21,Pune,Baner,Villa,No,Unfurnished,11100000
+1370,4,4.0,27,Mumbai,Navi Mumbai,Apartment,No,Unfurnished,20620000
+1630,4,4.0,5,Delhi,Noida Extension,Apartment,Yes,Unfurnished,17780000
+688,1,1.0,9,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,4930000
+1526,4,4.0,17,Hyderabad,Kondapur,Apartment,Yes,Unfurnished,10830000
+2242,4,3.0,21,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,15830000
+667,3,2.0,6,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,2940000
+1176,3,3.0,22,Delhi,Noida Extension,Apartment,Yes,Furnished,13910000
+983,2,1.0,30,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,5830000
+2552,5,5.0,13,Mumbai,Andheri,Apartment,Yes,Unfurnished,37740000
+1280,4,4.0,19,Ahmedabad,Gota,Apartment,No,Semi-furnished,8770000
+2267,4,3.0,21,Pune,Hinjewadi,Apartment,No,,18040000
+1050,3,2.0,3,Chennai,Anna Nagar,Apartment,Yes,Semi-furnished,6460000
+670,3,3.0,19,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,4750000
+951,2,2.0,9,Pune,Wakad,Independent House,Yes,Semi-furnished,7240000
+2532,5,4.0,9,Hyderabad,Banjara Hills,Apartment,No,Semi-furnished,19870000
+1338,4,4.0,34,Pune,Kharadi,Apartment,Yes,Unfurnished,10020000
+1196,3,3.0,35,Chennai,OMR,Apartment,Yes,Semi-furnished,8920000
+450,2,2.0,4,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,2660000
+2167,5,5.0,19,Pune,Wakad,Villa,Yes,Semi-furnished,18200000
+1334,3,2.0,21,Pune,Hinjewadi,Apartment,Yes,Unfurnished,9290000
+996,4,4.0,23,Pune,Hinjewadi,Independent House,Yes,Semi-furnished,9480000
+1479,4,4.0,35,Pune,Baner,Apartment,Yes,Semi-furnished,8130000
+1475,4,4.0,25,Bengaluru,Electronic City,Apartment,Yes,Semi-furnished,14370000
+1466,3,3.0,8,Kolkata,Salt Lake,Apartment,Yes,Unfurnished,8040000
+1332,4,3.0,16,Pune,Kharadi,Apartment,Yes,Semi-furnished,10460000
+559,2,2.0,30,Bengaluru,Whitefield,Villa,Yes,Semi-furnished,4830000
+2012,5,5.0,2,Chennai,Velachery,Villa,Yes,Semi-furnished,20450000
+2528,6,5.0,15,Delhi,Dwarka,Apartment,Yes,Semi-furnished,22660000
+699,2,2.0,35,Hyderabad,Kondapur,Villa,Yes,Semi-furnished,5970000
+1127,2,2.0,26,Chennai,OMR,Apartment,Yes,Semi-furnished,6360000
+1243,3,2.0,34,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,12870000
+1347,2,1.0,7,Hyderabad,Banjara Hills,Apartment,No,Unfurnished,8780000
+1315,3,2.0,2,Delhi,Saket,Independent House,No,Semi-furnished,13450000
+958,3,3.0,21,Ahmedabad,Bopal,Apartment,Yes,Unfurnished,4230000
+1208,2,2.0,30,Delhi,Rohini,Villa,Yes,Furnished,10860000
+1786,3,3.0,7,Chennai,Anna Nagar,Apartment,Yes,Semi-furnished,17260000
+2161,4,4.0,0,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,39800000
+1757,4,4.0,12,Mumbai,Navi Mumbai,Apartment,Yes,Semi-furnished,38750000
+1444,4,4.0,9,Pune,Wakad,Independent House,Yes,Semi-furnished,13700000
+1420,4,4.0,6,Delhi,Noida Extension,Apartment,Yes,Semi-furnished,13840000
+2013,4,3.0,25,Chennai,Velachery,Apartment,Yes,Furnished,15800000
+1030,3,3.0,18,Bengaluru,Electronic City,Apartment,Yes,Furnished,8680000
+1612,4,4.0,0,Mumbai,Andheri,Apartment,Yes,Semi-furnished,32180000
+1485,2,1.0,31,Kolkata,New Town,Apartment,Yes,Semi-furnished,6730000
+450,1,1.0,28,Bengaluru,Indiranagar,Apartment,Yes,Unfurnished,3450000
+1308,3,2.0,32,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,8020000
+1690,4,4.0,14,Pune,Hinjewadi,Apartment,Yes,Furnished,12690000
+1264,4,4.0,6,Kolkata,Rajarhat,Apartment,Yes,Semi-furnished,7290000
+1445,4,4.0,0,Chennai,OMR,Independent House,Yes,Unfurnished,11560000
+1256,3,3.0,9,Ahmedabad,Prahlad Nagar,Villa,Yes,Furnished,11330000
+2026,6,5.0,22,Delhi,Saket,Independent House,Yes,Unfurnished,24010000
+1271,4,4.0,18,Chennai,Anna Nagar,Apartment,Yes,Unfurnished,8990000
+1199,4,4.0,3,Kolkata,Rajarhat,Apartment,Yes,Furnished,7510000
+1959,3,3.0,27,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,30780000
+1611,4,4.0,19,Bengaluru,Indiranagar,Villa,Yes,Semi-furnished,18510000
+1761,4,3.0,5,Pune,Wakad,Apartment,Yes,Unfurnished,13580000
+1718,5,5.0,33,Ahmedabad,Satellite,Apartment,Yes,Unfurnished,9430000
+1775,6,5.0,25,Hyderabad,Kondapur,Villa,No,Semi-furnished,12630000
+1154,3,3.0,10,Ahmedabad,Bopal,Apartment,Yes,Unfurnished,6620000
+2069,6,5.0,5,Bengaluru,Electronic City,Apartment,Yes,Unfurnished,17230000
+2366,5,5.0,2,Chennai,OMR,Villa,Yes,Semi-furnished,20340000
+1566,4,3.0,4,Bengaluru,Whitefield,Apartment,No,Furnished,11330000
+1247,3,3.0,28,Pune,Hinjewadi,Apartment,Yes,Unfurnished,8420000
+1242,4,4.0,24,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,10230000
+1691,4,3.0,14,Pune,Baner,Villa,No,Furnished,13650000
+1582,4,,5,Pune,Wakad,Independent House,Yes,Unfurnished,10530000
+2012,5,5.0,24,Delhi,Noida Extension,Independent House,No,Semi-furnished,26620000
+2033,5,5.0,13,Bengaluru,Electronic City,Apartment,No,Semi-furnished,12330000
+1331,2,1.0,3,Delhi,Rohini,Villa,Yes,Semi-furnished,18330000
+1159,2,1.0,2,Hyderabad,Miyapur,Apartment,Yes,Unfurnished,10080000
+954,3,3.0,16,Ahmedabad,Gota,Apartment,Yes,Furnished,7220000
+1378,3,2.0,30,Chennai,Porur,Apartment,Yes,Furnished,8180000
+1405,3,2.0,3,Ahmedabad,Prahlad Nagar,Apartment,Yes,Furnished,8800000
+1038,3,3.0,4,Mumbai,Navi Mumbai,Apartment,Yes,Semi-furnished,21620000
+1718,4,4.0,1,Hyderabad,Kondapur,Apartment,Yes,Furnished,11650000
+2165,5,4.0,17,Bengaluru,Indiranagar,Apartment,Yes,Semi-furnished,19410000
+1262,3,2.0,20,Pune,Kharadi,Independent House,Yes,Semi-furnished,14080000
+1708,3,3.0,27,Chennai,Anna Nagar,Independent House,Yes,Semi-furnished,15480000
+579,2,2.0,25,Mumbai,Navi Mumbai,Independent House,Yes,Semi-furnished,13610000
+1410,4,3.0,24,Hyderabad,Kondapur,Apartment,Yes,Semi-furnished,9320000
+2255,5,5.0,28,Delhi,Noida Extension,Independent House,Yes,Unfurnished,25460000
+1905,3,3.0,9,Bengaluru,Sarjapur Road,Villa,Yes,Unfurnished,20110000
+1595,4,3.0,4,Pune,Baner,Apartment,Yes,Unfurnished,10510000
+1275,4,3.0,20,Delhi,Rohini,Villa,Yes,Semi-furnished,15990000
+1196,4,4.0,3,Pune,Wakad,Independent House,Yes,Semi-furnished,12510000
+1797,5,5.0,35,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,11370000
+1816,6,5.0,15,Delhi,Dwarka,Villa,Yes,Semi-furnished,15100000
+1390,2,2.0,23,Pune,Wakad,Independent House,Yes,Unfurnished,13520000
+1543,3,3.0,27,Delhi,Saket,Independent House,Yes,Unfurnished,18190000
+542,3,3.0,11,Pune,Hinjewadi,Apartment,Yes,Unfurnished,4160000
+1452,4,3.0,19,Delhi,Saket,Apartment,Yes,Unfurnished,13290000
+1068,3,3.0,13,Pune,Kharadi,Apartment,No,Semi-furnished,7350000
+450,1,1.0,10,Pune,Hinjewadi,Villa,Yes,Semi-furnished,3950000
+2200,5,5.0,9,Kolkata,New Town,Apartment,Yes,Semi-furnished,9730000
+1543,4,3.0,23,Pune,Kharadi,Apartment,Yes,Semi-furnished,12100000
+875,2,1.0,0,Pune,Hinjewadi,Apartment,Yes,Semi-furnished,7050000
+648,2,2.0,2,Hyderabad,Gachibowli,Villa,Yes,Unfurnished,5130000
+832,2,2.0,15,Hyderabad,Kondapur,Apartment,No,Unfurnished,6090000
+2466,5,5.0,18,Bengaluru,Electronic City,Apartment,No,Semi-furnished,20150000
+1357,3,3.0,25,Ahmedabad,Satellite,Apartment,No,Unfurnished,6340000
+2303,4,3.0,29,Pune,Baner,Apartment,Yes,Unfurnished,17370000
+1882,4,4.0,16,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,11870000
+1423,3,3.0,28,Kolkata,Behala,Villa,No,Semi-furnished,9020000
+2059,4,3.0,21,Kolkata,New Town,Apartment,Yes,Semi-furnished,10230000
+1621,4,4.0,14,Chennai,Anna Nagar,Independent House,Yes,Semi-furnished,12890000
+1141,3,2.0,3,Delhi,Dwarka,Apartment,No,Semi-furnished,9060000
+1452,4,3.0,22,Pune,Baner,Apartment,Yes,Unfurnished,8960000
+1138,2,2.0,25,Chennai,Porur,Independent House,No,Semi-furnished,6880000
+1450,4,4.0,0,Bengaluru,Indiranagar,Independent House,Yes,Semi-furnished,14040000
+450,1,1.0,19,Bengaluru,Whitefield,Independent House,Yes,Unfurnished,2950000
+1539,4,4.0,35,Ahmedabad,Prahlad Nagar,Apartment,Yes,Semi-furnished,10820000
+979,3,3.0,27,Hyderabad,Gachibowli,Apartment,Yes,Unfurnished,6260000
+2239,4,4.0,21,Chennai,Porur,Apartment,No,Semi-furnished,17160000
+1586,2,1.0,35,Kolkata,New Town,Apartment,Yes,Semi-furnished,8680000
+1276,3,2.0,28,Mumbai,Navi Mumbai,Apartment,Yes,Unfurnished,18940000
+1304,2,2.0,6,Kolkata,Salt Lake,Apartment,Yes,Semi-furnished,5770000
+2276,4,4.0,17,Kolkata,Behala,Apartment,No,Unfurnished,14300000
+718,1,1.0,0,Delhi,Rohini,Villa,Yes,Unfurnished,7190000
+1655,4,4.0,15,Mumbai,Powai,Villa,No,Unfurnished,26560000
+911,2,1.0,14,Delhi,Saket,Apartment,Yes,Unfurnished,9630000
+1787,4,3.0,27,Hyderabad,Banjara Hills,Apartment,Yes,Semi-furnished,16120000
+1083,3,3.0,23,Chennai,Porur,Apartment,Yes,Semi-furnished,7820000
+963,3,3.0,33,Hyderabad,Kondapur,Apartment,No,Furnished,6450000
+1139,5,5.0,21,Chennai,Porur,Apartment,No,Unfurnished,8010000
+752,2,1.0,29,Bengaluru,Electronic City,Apartment,Yes,Furnished,6810000
+1253,4,4.0,15,Mumbai,Navi Mumbai,Apartment,Yes,Semi-furnished,22580000
+1708,3,3.0,2,Delhi,Noida Extension,Apartment,Yes,Unfurnished,15980000
+1736,3,3.0,33,Chennai,Anna Nagar,Apartment,No,Semi-furnished,11670000
+1546,3,3.0,13,Delhi,Rohini,Villa,Yes,Unfurnished,18970000
+1627,4,3.0,13,Bengaluru,Sarjapur Road,Apartment,Yes,Furnished,13180000
+2586,6,5.0,28,Kolkata,Rajarhat,Apartment,Yes,Unfurnished,13160000
+700,1,1.0,30,Pune,Baner,Apartment,Yes,Unfurnished,3790000
+1053,3,3.0,22,Ahmedabad,Prahlad Nagar,Apartment,Yes,Unfurnished,6290000
+803,2,1.0,2,Mumbai,Andheri,Apartment,Yes,Unfurnished,11810000
+774,2,2.0,35,Pune,Hinjewadi,Apartment,Yes,Semi-furnished,5100000
+1330,3,3.0,3,Hyderabad,Miyapur,Apartment,Yes,Semi-furnished,9210000
+1448,4,4.0,30,Mumbai,Navi Mumbai,Apartment,Yes,Furnished,31760000
+1288,2,1.0,9,Chennai,Velachery,Apartment,No,Semi-furnished,8740000
+1162,2,2.0,16,Bengaluru,Whitefield,Independent House,Yes,Unfurnished,7730000
+848,4,4.0,10,Hyderabad,Kondapur,Villa,No,Furnished,7310000
+1469,3,2.0,5,Hyderabad,Gachibowli,Villa,Yes,Furnished,11470000
+1454,3,2.0,7,Delhi,Rohini,Independent House,Yes,Unfurnished,10190000
+561,2,2.0,23,Mumbai,Thane,Apartment,Yes,Unfurnished,8820000
+2349,4,4.0,11,Hyderabad,Miyapur,Independent House,Yes,Unfurnished,25800000
+1630,4,4.0,15,Delhi,Noida Extension,Apartment,Yes,Unfurnished,15800000
+1401,3,3.0,10,Bengaluru,Indiranagar,Independent House,Yes,Unfurnished,13320000
+1490,3,3.0,14,Hyderabad,Banjara Hills,Apartment,Yes,Unfurnished,12820000
+929,2,2.0,2,Chennai,OMR,Apartment,Yes,Furnished,4570000
+1343,4,3.0,1,Pune,Hinjewadi,Apartment,No,Semi-furnished,11010000
+1665,3,3.0,8,Mumbai,Andheri,Apartment,Yes,Semi-furnished,25000000
+1306,3,3.0,5,Kolkata,Behala,Villa,Yes,Semi-furnished,11390000
+1792,4,4.0,19,Pune,Hinjewadi,Apartment,No,Semi-furnished,14190000
+1432,2,2.0,34,Ahmedabad,Gota,Apartment,No,Unfurnished,7700000
+1049,4,4.0,0,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,5890000
+1913,5,5.0,19,Hyderabad,Miyapur,Apartment,Yes,Furnished,14160000
+674,3,3.0,14,Mumbai,Andheri,Apartment,No,Semi-furnished,13920000
+1906,6,5.0,11,Pune,Baner,Apartment,Yes,Unfurnished,11280000
+1971,6,5.0,29,Bengaluru,Whitefield,Apartment,Yes,Semi-furnished,14570000
+1813,5,5.0,14,Chennai,OMR,Apartment,Yes,Unfurnished,10590000
+907,3,3.0,14,Kolkata,Salt Lake,Villa,No,Unfurnished,5700000
+1682,3,2.0,30,Pune,Kharadi,Apartment,Yes,Furnished,16920000
+684,3,2.0,23,Chennai,OMR,Independent House,Yes,Unfurnished,4030000
+983,2,2.0,10,Ahmedabad,Bopal,Independent House,Yes,Semi-furnished,6750000
+1211,4,4.0,22,Mumbai,Powai,Apartment,No,Semi-furnished,20120000
+935,3,3.0,25,Chennai,Anna Nagar,Apartment,Yes,Unfurnished,7020000
+1166,2,1.0,22,Pune,Wakad,Apartment,Yes,Unfurnished,11220000
+1606,4,3.0,16,Chennai,Velachery,Apartment,Yes,Semi-furnished,11100000
+1572,4,3.0,11,Ahmedabad,Bopal,Apartment,Yes,Semi-furnished,9740000
+930,4,4.0,15,Ahmedabad,Bopal,Independent House,Yes,Unfurnished,5360000
+842,2,2.0,11,Mumbai,Powai,Villa,No,Semi-furnished,13880000
+1153,3,3.0,19,Hyderabad,Miyapur,Apartment,Yes,Semi-furnished,8680000
+2238,5,5.0,12,Hyderabad,Miyapur,Apartment,Yes,Unfurnished,21190000

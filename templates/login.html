@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block title %}Log in | HomeValue{% endblock %}
+{% block content %}
+<section class="auth-wrap"><div class="auth-art"><span class="eyebrow eyebrow-light">Welcome back</span><h2>Your next home is closer than you think.</h2><p>Pick up where you left off with saved homes and your personal price estimates.</p><div class="auth-quote">“A home is a feeling, not just an address.”</div></div><div class="auth-panel"><div class="auth-form-wrap"><span class="eyebrow">Your HomeValue account</span><h1>Welcome back</h1><p class="muted">Log in to continue exploring.</p>
+<form method="post" class="form-stack"><input type="hidden" name="csrf_token" value="{{ csrf_token }}"><input type="hidden" name="next" value="{{ next_url }}"><label>Email address<input name="email" type="email" autocomplete="email" required maxlength="254" placeholder="you@example.com"></label><label>Password<input name="password" type="password" autocomplete="current-password" required></label><button class="button button-primary button-full" type="submit">Log in <span>→</span></button></form>
+<p class="auth-switch">New to HomeValue? <a href="{{ url_for('main.register') }}">Create an account</a></p></div></div></section>
+{% endblock %}

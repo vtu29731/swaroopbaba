@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Predict a home price | HomeValue{% endblock %}
+{% block content %}
+<section class="page-hero"><div class="shell"><span class="eyebrow eyebrow-light">A data-informed estimate</span><h1>What could this home be worth?</h1><p>Share a few property details to get an estimate from our trained regression model.</p></div></section>
+<section class="shell prediction-layout"><div class="prediction-intro"><span class="eyebrow">Home price estimator</span><h2>Tell us about the property.</h2><p>Our model considers property size, rooms, age, city, location and amenities. Your result will be saved to your private prediction history.</p><div class="estimate-note"><span>i</span><p>This is an academic demonstration trained on synthetic data. Results are approximate and are not a guaranteed market price or financial advice.</p></div><div class="privacy-note">🔒 Your estimates are private to your account.</div></div>
+<form method="post" class="prediction-form"><input type="hidden" name="csrf_token" value="{{ csrf_token }}"><div class="form-heading"><h2>Property details</h2><span>* Required fields</span></div>
+  <div class="form-grid"><label>City *<select name="city" required><option value="">Choose a city</option>{% for city in cities %}<option value="{{ city }}" {% if form_data.get('city') == city %}selected{% endif %}>{{ city }}</option>{% endfor %}</select></label>
+  <label>Location *<input name="location" list="location-options" maxlength="80" required value="{{ form_data.get('location','') }}" placeholder="e.g. Whitefield"><datalist id="location-options">{% for location in locations %}<option value="{{ location }}">{% endfor %}</datalist></label>
+  <label>Property type *<select name="property_type" required><option value="">Choose a type</option>{% for kind in property_types %}<option value="{{ kind }}" {% if form_data.get('property_type') == kind %}selected{% endif %}>{{ kind }}</option>{% endfor %}</select></label>
+  <label>Area (square feet) *<input type="number" name="area_sqft" min="200" max="20000" step="1" required value="{{ form_data.get('area_sqft','') }}" placeholder="e.g. 1450"></label>
+  <label>Bedrooms *<input type="number" name="bedrooms" min="1" max="12" required value="{{ form_data.get('bedrooms','') }}" placeholder="e.g. 3"></label>
+  <label>Bathrooms *<input type="number" name="bathrooms" min="1" max="12" required value="{{ form_data.get('bathrooms','') }}" placeholder="e.g. 2"></label>
+  <label>Property age (years) *<input type="number" name="property_age" min="0" max="150" required value="{{ form_data.get('property_age','') }}" placeholder="e.g. 5"></label>
+  <label>Parking availability *<select name="parking" required><option value="">Choose</option><option {% if form_data.get('parking') == 'Yes' %}selected{% endif %}>Yes</option><option {% if form_data.get('parking') == 'No' %}selected{% endif %}>No</option></select></label>
+  <label class="form-span">Furnishing status *<select name="furnishing" required><option value="">Choose furnishing</option>{% for status in ["Unfurnished","Semi-furnished","Furnished"] %}<option value="{{ status }}" {% if form_data.get('furnishing') == status %}selected{% endif %}>{{ status }}</option>{% endfor %}</select></label>
+  </div><button class="button button-primary button-full" type="submit">Predict house price <span>→</span></button><p class="form-footnote">Your details are processed securely and saved only to your account.</p>
+</form></section>
+{% endblock %}

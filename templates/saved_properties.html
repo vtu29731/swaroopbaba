@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% from "macros.html" import property_card %}
+{% block title %}Saved properties | HomeValue{% endblock %}
+{% block content %}
+<section class="page-hero compact-hero"><div class="shell"><span class="eyebrow eyebrow-light">Your shortlist</span><h1>Saved properties</h1><p>The homes you've bookmarked for later.</p></div></section><section class="section shell">{% if properties %}<div class="property-grid">{% for property in properties %}{{ property_card(property, removable=true) }}{% endfor %}</div>{% else %}<div class="empty-state"><div class="empty-icon">♡</div><h3>Your shortlist is ready to grow</h3><p>Save interesting homes while exploring and they will be collected here.</p><a class="button button-primary" href="{{ url_for('main.properties') }}">Explore properties</a></div>{% endif %}</section>
+{% endblock %}

@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Model insights | HomeValue{% endblock %}
+{% block content %}
+<section class="page-hero"><div class="shell"><span class="eyebrow eyebrow-light">Behind the estimate</span><h1>Model performance, made transparent.</h1><p>Metrics below come directly from the latest held-out evaluation in this environment.</p></div></section>
+<section class="shell performance-page"><div class="performance-summary"><div><span class="eyebrow">Selected model</span><h2>{{ model_results.best_model }}</h2><p>Selected by the lowest root mean squared error (RMSE) on the held-out test set.</p></div><div class="dataset-chip"><span>Training rows</span><strong>{{ "{:,}".format(model_results.dataset_rows) }}</strong></div></div>
+<div class="chart-panel"><div class="chart-panel-head"><div><h2>Regression model comparison</h2><p>Test-set root mean squared error (lower is better)</p></div><span class="metric-tag">Actual evaluation</span></div><img class="performance-chart" src="{{ url_for('static', filename='images/model_comparison.png') }}" alt="Bar chart comparing RMSE on the held-out test data"></div>
+<div class="table-wrap metrics-table-wrap"><table><thead><tr><th>Algorithm</th><th>MAE (₹)</th><th>MSE (₹²)</th><th>RMSE (₹)</th><th>R² score</th></tr></thead><tbody>{% for name, scores in model_results.metrics.items() %}<tr class="{% if name == model_results.best_model %}selected-model{% endif %}"><td><strong>{{ name }}</strong>{% if name == model_results.best_model %}<span class="best-badge">Selected</span>{% endif %}</td><td>₹{{ "{:,.0f}".format(scores.mae) }}</td><td>{{ "{:,.0f}".format(scores.mse) }}</td><td>₹{{ "{:,.0f}".format(scores.rmse) }}</td><td>{{ "%.4f"|format(scores.r2) }}</td></tr>{% endfor %}</tbody></table></div>
+<div class="data-disclosure"><span>ⓘ</span><p><strong>Dataset disclosure:</strong> {{ model_results.dataset_note }} Scores measure performance on a reproducible 20% test split of the dataset and do not establish accuracy on real-world property prices.</p></div>
+</section>
+{% endblock %}

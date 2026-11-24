@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% from "macros.html" import property_card %}
+{% block title %}Explore properties | HomeValue{% endblock %}
+{% block content %}
+<section class="page-hero"><div class="shell"><span class="eyebrow eyebrow-light">Explore homes</span><h1>Find a place that feels like yours.</h1><p>Browse sample listings and narrow down the details that matter.</p></div></section>
+<section class="shell listing-layout">
+  <aside class="filter-panel"><div class="filter-heading"><h2>Filters</h2><a href="{{ url_for('main.properties') }}">Clear all</a></div><form action="{{ url_for('main.properties') }}" method="get" class="filter-form">
+    <label>City<select name="city"><option value="">All cities</option>{% for city in cities %}<option value="{{ city }}" {% if filters.city == city %}selected{% endif %}>{{ city }}</option>{% endfor %}</select></label>
+    <label>Location<input type="search" name="location" value="{{ request.args.get('location','') }}" placeholder="e.g. Whitefield"></label>
+    <label>Property type<select name="property_type"><option value="">Any type</option>{% for kind in property_types %}<option value="{{ kind }}" {% if filters.property_type == kind %}selected{% endif %}>{{ kind }}</option>{% endfor %}</select></label>
+    <div class="filter-pair"><label>Min. price (₹)<input type="number" name="min_price" min="0" step="500000" value="{{ request.args.get('min_price','') }}" placeholder="Any"></label><label>Max. price (₹)<input type="number" name="max_price" min="0" step="500000" value="{{ request.args.get('max_price','') }}" placeholder="Any"></label></div>
+    <label>Bedrooms (min.)<select name="bedrooms"><option value="">Any</option>{% for count in range(1,7) %}<option value="{{ count }}" {% if request.args.get('bedrooms') == count|string %}selected{% endif %}>{{ count }}+</option>{% endfor %}</select></label>
+    <div class="filter-pair"><label>Min. area<input type="number" name="min_area" min="200" value="{{ request.args.get('min_area','') }}" placeholder="sqft"></label><label>Max. area<input type="number" name="max_area" min="200" value="{{ request.args.get('max_area','') }}" placeholder="sqft"></label></div>
+    <button class="button button-primary button-full" type="submit">Apply filters</button>
+  </form></aside>
+  <div class="listing-results"><div class="results-heading"><div><h2>Homes to explore</h2><p>{{ properties|length }} sample listing{{ '' if properties|length == 1 else 's' }} found</p></div><span class="demo-badge static-badge">Demo data</span></div>
+    {% if properties %}<div class="property-grid">{% for property in properties %}{{ property_card(property, saved_ids) }}{% endfor %}</div>{% else %}<div class="empty-state"><div class="empty-icon">⌂</div><h3>No homes match those filters</h3><p>Try broadening your search or clearing one of the filters.</p><a class="button button-outline" href="{{ url_for('main.properties') }}">Clear filters</a></div>{% endif %}
+  </div>
+</section>
+{% endblock %}
