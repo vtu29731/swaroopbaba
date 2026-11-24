@@ -61,7 +61,7 @@ The GitHub repository stores the source; Render runs the Flask and machine-learn
 
 2. Sign in at [Render](https://render.com), choose **New → Blueprint**, and connect your GitHub repository.
 3. Render reads `render.yaml`, installs dependencies, trains the models from the demonstration dataset, and starts the Gunicorn server.
-4. In Render's prompted environment settings, provide a unique admin username and a strong admin password. Keep the generated `HOMEVALUE_SECRET_KEY` private.
+4. Render generates a private `HOMEVALUE_SECRET_KEY` and a random admin password. The admin username is `admin@homevalue.local`; view the generated `HOMEVALUE_ADMIN_PASSWORD` in the Render service's environment settings when you need to sign in at `/admin/login`.
 5. After the deployment health check passes, open the Render-provided `https://…onrender.com/react` address. The Flask pages remain available at the root URL.
 
 On the free plan, the SQLite database is in the app's local `instance` directory and is not persistent. Upgrade the service and configure a persistent disk plus `HOMEVALUE_DATABASE` before relying on account or prediction history. The admin account is initialized on the first database creation; changing the environment password later does not change an already-created admin password.

@@ -10,6 +10,6 @@ services:
       - key: HOMEVALUE_SECRET_KEY
         generateValue: true
       - key: HOMEVALUE_ADMIN_USER
-        sync: false
+        value: admin@homevalue.local
       - key: HOMEVALUE_ADMIN_PASSWORD
-        sync: false
+        generateValue: true
